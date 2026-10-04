@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "clark",
+  "series": "researchers",
+  "recipient": "Andy Clark",
+  "recipient_ru": "Энди Кларк",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "language",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "Andy.Clark@sussex.ac.uk"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": false,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "Revising a sentence, correcting a thought",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Professor Clark,",
+        "In “Magic Words: How Language Augments Human Computation”, you write: “Our thoughts become determinate and public objects”.",
+        "Your account gives linguistic formulations an active role in reshaping cognition.",
+        "Please indicate, using one example of revising a written argument, what would warrant describing the revision as a correction of a thought.",
+        "beforeword proposes keeping three elements separately inspectable: the written revision, its interpretation as correcting a thought, and the grounds offered for that interpretation.",
+        "The terms “thought” and “correction” remain part of the writing under examination. Descriptions of cognitive processes, any proposed criterion and its justification, human self-descriptions, and this letter receive the same treatment.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "9d43bb8cc765f6c15e12619de26487f8233a2299b8b2da3bc56c09d63de4c67d",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Правка предложения, исправление мысли",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый профессор Кларк,",
+        "В работе «Magic Words: How Language Augments Human Computation» Вы пишете: «Наши мысли становятся определёнными и общедоступными объектами».",
+        "В Вашем изложении языковые формулировки играют активную роль в преобразовании познания.",
+        "Пожалуйста, на одном примере правки письменного аргумента укажите, что позволило бы описать эту правку как исправление мысли.",
+        "beforeword предлагает сохранять возможность по отдельности рассматривать три элемента: правку текста, её интерпретацию как исправления мысли и доводы в пользу этой интерпретации.",
+        "Термины «мысль» и «исправление» остаются частью разбираемого текста. Тот же разбор относится к описаниям познавательных процессов, любому предложенному критерию и его обоснованию, описаниям людьми самих себя и этому письму.",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "757301bf7131cb85cfa9384f0b70118e6cbe5c637ab078756fa4bb056d696f96",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What warrants calling a revision of text a correction of thought?",
+      "ru": "На каком основании правку текста называют исправлением мысли?"
+    },
+    "purpose": {
+      "en": [
+        "The starting point is Clark’s statement, quoted in the letter, about thoughts becoming determinate and public objects. The letter focuses on one specific move: describing a revision to a written argument as a correction of thought.",
+        "Readers need to distinguish a change in wording, which can be compared with an earlier version, from the interpretation of that revision as a change in thought.",
+        "The letter asks for one worked example showing what warrants calling the revision a correction of thought. The explanation and its chosen criterion are then open to the same examination as the original text."
+      ],
+      "ru": [
+        "Поводом стала цитируемая в письме формулировка Кларка о мыслях, становящихся определёнными и общедоступными объектами. Письмо выделяет конкретный переход: правка написанного аргумента описывается как исправление мысли.",
+        "Читателю важно различать изменение текста, которое можно сопоставить с предыдущей версией, и толкование этой правки как изменения мысли.",
+        "Письмо просит разобрать один пример правки и показать, что позволяет назвать её исправлением мысли. Само объяснение и выбранный критерий предлагается рассматривать столь же внимательно, как исходный текст."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "Andy Clark — Magic Words: How Language Augments Human Computation",
+      "url": "https://era.ed.ac.uk/bitstream/1842/1311/1/magic.pdf#page=13",
+      "locator_ru": "Стр. 13 PDF, абзац о мыслях как определённых и публичных объектах.",
+      "locator_en": "PDF page 13, paragraph on thoughts becoming determinate and public objects.",
+      "note_ru": "Полный текст в репозитории University of Edinburgh; содержит цитату, обсуждаемую в письме.",
+      "note_en": "Full text in the University of Edinburgh repository; includes the quotation discussed in the letter.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8891.PNG",
+      "sha256": "6a26ab08ae395d622f91e31925af8ee6f9c95293beda01657c138557cff2bfff"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8892.PNG",
+      "sha256": "78a206ffbb47d022c323e5391bcaf1ab1520a5e8e085a321f60bfffba5c7f1f6"
+    }
+  ]
+}

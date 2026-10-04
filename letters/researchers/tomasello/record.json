@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "tomasello",
+  "series": "researchers",
+  "recipient": "Michael Tomasello",
+  "recipient_ru": "Майкл Томаселло",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "language",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "michael.tomasello@duke.edu"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": false,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "Common ground: the grounds for attributing mutual knowledge",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Professor Tomasello,",
+        "Your 2020 paper with Wouter Wolf on video watching and common ground (JECP, 199, 104930) describes common ground in terms of participants who “know that they both know” they are experiencing something together.",
+        "The study varies the timing of eye contact, reports differences in children’s subsequent approach times, and discusses methodological limitations.",
+        "Please indicate the strongest ground, in the reported experimental comparison, for attributing to the children an understanding that both participants knew they were watching together.",
+        "beforeword proposes keeping three elements separately inspectable: the written report, the attribution of mutual knowledge, and the grounds offered for accepting that attribution.",
+        "The terms “knowledge” and “common ground” remain part of the writing under examination. Written descriptions of methods, measurement records, criteria and their justifications, human self-descriptions, and this letter receive the same treatment.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "5eea0d65c00714583bb062de1bb43d781415da764d8ca6e195e3171440b7ab1c",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Общий контекст: основания для приписывания взаимного знания",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый профессор Томаселло,",
+        "В вашей совместной с Ваутером Вольфом статье 2020 года о просмотре видео и общем контексте участников (common ground; JECP, 199, 104930) этот контекст описывается через участников, которые «знают, что они оба знают», что переживают нечто вместе.",
+        "В исследовании меняют момент зрительного контакта, сообщают о различиях в том, через какое время дети затем подходят, и обсуждают ограничения метода.",
+        "Пожалуйста, укажите, что в описанном экспериментальном сравнении наиболее убедительно поддерживает вывод о том, что дети понимали: оба участника знали, что смотрят вместе.",
+        "beforeword предлагает отдельно рассматривать три элемента: письменный отчёт, вывод о взаимном знании и основания, предложенные для принятия этого вывода.",
+        "Термины «знание» и «общий контекст» остаются частью разбираемого текста. Такой же разбор распространяется на письменные описания методов, записи измерений, критерии и их обоснования, самоописания людей и это письмо.",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "c1641d054bc99554ddf28ab9a50fd6b7f3ef52b0b56b8bd8508a275b5d2a5cf2",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What supports attributing mutual knowledge in a shared viewing task?",
+      "ru": "Что поддерживает вывод, что дети понимали: оба участника знали о совместном просмотре?"
+    },
+    "purpose": {
+      "en": [
+        "The letter concerns a study of watching a video together. It focuses on the move from reported differences in children’s behavior to the conclusion that the children understood that both participants knew they were watching together.",
+        "Readers need to distinguish the comparison’s reported results from a conclusion about what the participants knew about each other. Showing how the results support that particular conclusion makes the distinction clearer.",
+        "The letter asks for the strongest support in the reported experimental comparison. Descriptions of methods, measurement records and the chosen criteria remain open to examination too."
+      ],
+      "ru": [
+        "Письмо касается исследования совместного просмотра видео. Оно выделяет переход от описанных различий в поведении детей к выводу, что дети понимали: оба участника знали, что смотрят вместе.",
+        "Для читателя важно отличать результаты сравнения от вывода о том, что участники знали друг о друге. Разница становится яснее, когда показано, как результаты поддерживают именно этот вывод.",
+        "Письмо просит указать самый веский довод в описанном экспериментальном сравнении. Описания методов, записи измерений и выбранные критерии также остаются предметом разбора."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "Wouter Wolf & Michael Tomasello — Human children, but not great apes, become socially closer by sharing an experience in common ground",
+      "url": "https://sites.duke.edu/tomasellolabduke/files/2020/08/WolfTomasello2020.pdf#page=2",
+      "locator_ru": "Введение, стр. 2–3 PDF; General discussion, стр. 9 PDF.",
+      "locator_en": "Introduction, PDF pages 2–3; General discussion, PDF page 9.",
+      "note_ru": "Статья JECP 199 (2020), 104930; полный текст на сайте лаборатории Томаселло в Duke.",
+      "note_en": "JECP 199 (2020), 104930; full text hosted by the Tomasello Lab at Duke.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8887.PNG",
+      "sha256": "07337395427d9c44e42cf945f9f3aa580804a97e3bdb58cbe0a9e41374445336"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8888.PNG",
+      "sha256": "aac9c9b2cc57f00234281b74c7d8713dcb51efa09c52d13c8a56b3a1e91ee2f6"
+    }
+  ]
+}

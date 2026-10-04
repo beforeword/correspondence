@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "chalmers",
+  "series": "researchers",
+  "recipient": "David Chalmers",
+  "recipient_ru": "Дэвид Чалмерс",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "experience",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": "2026-10-02",
+    "time_display": "00:35",
+    "timezone": null,
+    "calendar_date_shown": true,
+    "visible_weekday_label": null,
+    "to": [
+      "chalmers@nyu.edu"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": false,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "The meta-problem: from inscription to consciousness report",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear David,",
+        "In §1.2 of “The Meta-Problem of Consciousness”, you describe “inscriptions (naturally interpretable as concerning consciousness)”.",
+        "beforeword proposes examining the step inside those parentheses.",
+        "A written sentence such as “I feel pain” may be read as a self-report, a quotation, or a scripted line. The wording alone does not select among these readings. Context and assumptions about its source enter into that selection.",
+        "The proposal is to include this selection in what needs explaining: how an inscription comes to be classified as a consciousness report, and what grounds support that classification. The inscription, the interpretation, and the stated grounds would remain separately available for examination.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Please indicate whether this interpretive step belongs within your account of the meta-problem or calls for a separate account of how the reports to be explained are identified.",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "85a53b3056c77a8ac78a683670149a83e638310181695bfa7ea02d95696322a2",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Метапроблема: от записи к сообщению о сознании",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый Дэвид,",
+        "В §1.2 работы «The Meta-Problem of Consciousness» вы описываете «записи (которые естественно истолковать как относящиеся к сознанию)».",
+        "beforeword предлагает рассмотреть переход, обозначенный внутри этих скобок.",
+        "Написанное предложение, например «Я чувствую боль», можно прочитать как сообщение о себе, цитату или реплику из сценария. По одной формулировке нельзя выбрать между этими прочтениями. На выбор влияют контекст и предположения об источнике.",
+        "Предлагается включить сам этот выбор в предмет объяснения: как запись относят к сообщениям о сознании и на каком основании это делают. Запись, её толкование и указанные основания при этом оставались бы доступными для раздельного рассмотрения.",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Пожалуйста, укажите, охватывает ли ваше объяснение метапроблемы этот переход в толковании или нужно отдельно объяснять, как выделяют сообщения, которые затем предстоит объяснить.",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "3fb7e5c7a137b96d7cc254d13d460f84af4861f75a9cc696ca20a331a24cec58",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What supports reading a written sentence as a report about consciousness?",
+      "ru": "На каком основании запись читают как сообщение о сознании?"
+    },
+    "purpose": {
+      "en": [
+        "The letter focuses on a phrase in “The Meta-Problem of Consciousness” about inscriptions naturally interpretable as concerning consciousness. It asks how that particular reading is selected.",
+        "“I feel pain” makes the issue concrete: the same words may be a self-report, a quotation, or a scripted line. Readers need to see which context and assumptions about the source guide the choice.",
+        "The letter asks whether this choice is covered by the account under discussion, or whether identifying inscriptions as reports about consciousness needs a separate explanation."
+      ],
+      "ru": [
+        "Поводом стала приведённая в письме формулировка из «The Meta-Problem of Consciousness» о записях, которые естественно истолковать как относящиеся к сознанию. Письмо обращает внимание на то, как выбирается именно такое прочтение.",
+        "Это видно на фразе «Я чувствую боль»: те же слова могут быть сообщением о себе, цитатой или репликой из сценария. Для читателя важно видеть, какой контекст и какие предположения об источнике повлияли на выбор.",
+        "Письмо просит уточнить, входит ли этот выбор в предложенное объяснение или нужно отдельно объяснять, как записи относят к сообщениям о сознании."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "The Meta-Problem of Consciousness",
+      "url": "https://consc.net/papers/metaproblem.pdf#page=14",
+      "locator_ru": "§1.2, What counts as an explanation?, с. 19; страница 14 PDF.",
+      "locator_en": "§1.2, What counts as an explanation?, p. 19; PDF page 14.",
+      "note_ru": "Копия статьи 2018 года на сайте автора; обсуждаемый фрагмент находится в конце §1.2.",
+      "note_en": "The author-hosted copy of the 2018 article; the discussed passage is near the end of §1.2.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8861.PNG",
+      "sha256": "979dda8e55a0b1ca669c80e75fa3607fc701974495625d39cdde118b1cfa7838"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8862.PNG",
+      "sha256": "9a6ecb7e5870dfed311805028ec70fab6c5526d83b60d8240699a758f951b58f"
+    }
+  ]
+}

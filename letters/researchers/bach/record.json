@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "id": "bach",
+  "series": "researchers",
+  "recipient": "Joscha Bach",
+  "recipient_ru": "Йоша Бах",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "evidence",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "joscha@bach.ai"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": true,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "Interpretive validation: one claim, one alternative",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Dr Bach,",
+        "In §IV.2 of the CIMC research whitepaper you coauthored (April 2026), the proposed evidence includes “structures interpretable as second-order perception”.",
+        "Your hypothetical learning-agent example combines changes in task performance and internal organization, assessed against alternative explanations.",
+        "Please indicate one competing explanation for that example and one supporting claim, explaining how the claim would favor the consciousness interpretation.",
+        "beforeword begins with the written formulation. It asks that the proposed reading and the grounds offered for it remain separately inspectable.",
+        "A written explanation adds another formulation. Its interpretation and its proposed evidential role also enter the examination; calling it a “criterion” or “explanation” leaves that role to be shown.",
+        "The same examination includes written descriptions of measurements and internal structures, human self-reports, stated criteria, the wording of beforeword’s own procedure, and this letter—including its terms “experience”, “evidence”, “writing” and “reading”.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "c370e8e937ae1440d9f468ba237723e08e60afae575c6f4d40c7bbffbfb1c69e",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Проверка интерпретации: одно утверждение, одна альтернатива",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый доктор Бах,",
+        "В §IV.2 исследовательского доклада CIMC, одним из авторов которого Вы являетесь (апрель 2026 года), среди предлагаемых свидетельств указаны «структуры, которые можно интерпретировать как восприятие второго порядка».",
+        "В Вашем гипотетическом примере обучающегося агента сочетаются изменения в выполнении задач и внутренней организации; они оцениваются в сопоставлении с альтернативными объяснениями.",
+        "Пожалуйста, укажите одно конкурирующее объяснение этого примера и одно утверждение в поддержку интерпретации через сознание. Поясните, как это утверждение говорило бы в пользу такой интерпретации.",
+        "beforeword начинает с письменной формулировки и предлагает сохранять возможность отдельно рассматривать выбранное прочтение и доводы в его поддержку.",
+        "Письменное объяснение добавляет ещё одну формулировку. Её интерпретация и предполагаемая роль в качестве свидетельства тоже подлежат разбору; даже если назвать её «критерием» или «объяснением», эту роль всё ещё нужно показать.",
+        "Тот же разбор относится к письменным описаниям измерений и внутренних структур, сообщениям людей о себе, сформулированным критериям, формулировке собственной процедуры beforeword и этому письму, включая его термины «опыт», «свидетельство», «написанное» и «чтение».",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "4a547aef84fc8bc4f8874bf467ed153715656873bbea5df4d98016e2871244b4",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What claim favors a consciousness interpretation over an alternative explanation?",
+      "ru": "Что позволило бы предпочесть объяснение через сознание другому объяснению работы агента?"
+    },
+    "purpose": {
+      "en": [
+        "The letter examines a hypothetical learning agent in the CIMC whitepaper, focusing on changes in how it performs tasks and how it is organized. It asks what would support reading those changes as evidence of consciousness.",
+        "Readers need to see why that interpretation is proposed and what favors it over another explanation of the same described changes.",
+        "The letter asks for one alternative explanation and one claim supporting an interpretation in terms of consciousness, followed by an account of how that claim helps distinguish between them. The proposed explanation itself remains writing to be examined."
+      ],
+      "ru": [
+        "Письмо обращается к гипотетическому обучающемуся агенту из доклада CIMC: рассматриваются изменения в том, как он выполняет задачи и как устроен. Запрашивается объяснение того, что позволило бы прочитать эти изменения как свидетельство сознания.",
+        "Для читателя важно видеть, почему предлагается именно такое толкование и чем оно обосновано при сравнении с другим объяснением тех же описанных изменений.",
+        "Письмо просит назвать одно альтернативное объяснение и одно утверждение, которое поддержало бы интерпретацию через сознание, а затем показать, как оно помогает выбрать между ними. Предложенное объяснение тоже остаётся текстом, требующим разбора."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "CIMC — Research Program Whitepaper, version 2 (April 2026)",
+      "url": "https://cimc.ai/cimcWhitepaper.pdf#page=17",
+      "locator_ru": "§ IV.2 Interpretive Validation, с. 16–17 (стр. 17–18 PDF), включая пример обучающегося агента.",
+      "locator_en": "§ IV.2 Interpretive Validation, pp. 16–17 (PDF pages 17–18), including the hypothetical learning-agent example.",
+      "note_ru": "PDF прямо обозначен как версия 2, опубликованная 27 апреля 2026 года; указанная в письме формулировка присутствует.",
+      "note_en": "The PDF identifies itself as version 2, published 27 April 2026; it contains the wording quoted in the letter.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8901.PNG",
+      "sha256": "c6a4bacc7d757f636c790871b1d1379e99878921b278853dab6ced84c9499573"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8902.PNG",
+      "sha256": "2dabb1c0246251119d492c7881579d21f2117c8cb47e85bc693fba1fcf738e03"
+    }
+  ]
+}

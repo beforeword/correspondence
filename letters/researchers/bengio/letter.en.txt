@@ -1,0 +1,22 @@
+beforeword · English transcription from author-supplied screenshots
+Subject: Scientist AI: the grounds for treating a record as an observation
+
+Dear Professor Bengio,
+
+“S asserted X” first appears as a written form. Reading it as a record of an observed communication act assigns it a role that requires grounds.
+
+Section 3.2.1 of “Safety from Honesty in a Disinterested AI Predictor” provides a concrete place to examine this step. Remark 3.27 already acknowledges possible contextualization errors.
+
+beforeword proposes keeping three things separately inspectable: what is written, what it is read as recording, and the grounds for using that reading as a premise.
+
+This applies equally to the framework’s own formulations. Describing something as “observed” is itself a written attribution; the grounds for admitting it as an observation need to remain explicit. Source metadata and explanations of those grounds remain further records, subject to the same examination.
+
+The argument and examples:
+https://beforeword.xyz/research/no-authority-in-the-output/en/
+
+Please consider a brief response on the criterion your framework uses to admit such an attribution as an observation for training, and how the grounds for applying that criterion would remain available for examination.
+
+Kirill Shebetov
+beforeword
+
++

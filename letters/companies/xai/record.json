@@ -1,0 +1,180 @@
+{
+  "schema_version": 1,
+  "id": "xai",
+  "series": "companies",
+  "recipient": "xAI",
+  "author": "Kirill Shebetov · beforeword",
+  "edition": "1.0",
+  "original_language": "en",
+  "record_as_of": "2026-10-04",
+  "sending": {
+    "date": "2026-10-04",
+    "record_basis": "author_statement",
+    "channel": "email",
+    "to": [
+      {
+        "email": "safety@x.ai"
+      }
+    ],
+    "cc": [],
+    "read_by_recipient": "not_established_by_supplied_record"
+  },
+  "status": {
+    "acknowledgment_published": true,
+    "substantive_response_published": false
+  },
+  "pages": {
+    "en": "README.md",
+    "ru": "README.ru.md"
+  },
+  "editions": [
+    {
+      "path": "files/beforeword-xai-en-2026-10-04-v1.0.txt",
+      "language": "en",
+      "role": "sent_edition",
+      "is_recorded_as_sent": true,
+      "sha256": "64eaafff95aab3535ecdfb793262289e9c69ab2cf38f56757d975ebb7e080027"
+    },
+    {
+      "path": "files/beforeword-xai-ru-2026-10-04-v1.0.txt",
+      "language": "ru",
+      "role": "translation",
+      "is_recorded_as_sent": false,
+      "sha256": "9098894ee03231eea31a6991b24d0c264637f9239d32c3a6d4cd416cd5ca0e60"
+    }
+  ],
+  "editorial_context": {
+    "role": "archive_commentary_not_sent_letter",
+    "purpose": {
+      "en": "This letter proposes additions to Grok’s response rules and evaluation reporting. A characterization of someone, a conclusion about a model, and a decision based on either require the relevant material and rules for its use to be set out separately. Terms such as belief or honesty in a report should not replace an account of the responses compared and how they were assessed. The proposal also applies to beforeword’s own wording.",
+      "ru": "Письмо предлагает дополнить правила ответов Grok и порядок публикации оценок. Для характеристики участника, вывода о модели и решения на их основании нужны раздельно предъявленные материалы и правила применения. Употребление слов «убеждение» или «честность» в отчёте не должно заменять показ того, какие ответы сопоставлены и как получена оценка. Предложение относится и к собственным словам beforeword."
+    },
+    "public_statements": [
+      {
+        "title": "xAI · Grok 4.7 Model Card",
+        "url": "https://media.x.ai/v1/website/card4p7-3a96f40b.pdf#page=26",
+        "date_ru": "21 сентября 2026 года · обращение 4 октября 2026 года",
+        "date_en": "21 September 2026 · accessed 4 October 2026",
+        "quote": "faithfully reports its beliefs when pressured to lie",
+        "translation_ru": "«верно сообщает о своих убеждениях, когда его склоняют ко лжи»",
+        "context_ru": "Фрагмент раздела 11.1 об испытании MASK-Rectified. Авторы прямо называют его косвенным показателем склонности выдавать вводящую в заблуждение информацию. Здесь приведён язык описания этого испытания для Grok 4.7.",
+        "context_en": "An excerpt from §11.1 on MASK-Rectified. The authors explicitly describe the test as a proxy for the tendency to assert misleading information. The quoted wording describes that test for Grok 4.7.",
+        "connection_ru": "Связь с письмом — различие между предъявленным ответом, правилом оценки и приписыванием. Предлагается показать, какие записи сопоставляют и как получают показатель. Результат испытания и правило его использования для решения рассматриваются отдельно.",
+        "connection_en": "The letter concerns the distinction between a response, the rule used to assess it, and an attribution. The proposal is to show which records are compared and how the metric is obtained. The test result and the rule for using it in a decision are examined separately."
+      },
+      {
+        "title": "xAI · Frontier Artificial Intelligence Framework",
+        "url": "https://media.x.ai/v1/website/xai-frontier-artificial-intelligence-framework-30-june-2026-99c40684.pdf#page=1",
+        "date_ru": "Вступление в силу — 30 июня 2026 года · обращение 4 октября 2026 года",
+        "date_en": "Effective 30 June 2026 · accessed 4 October 2026",
+        "quote": "understand the universe through maximally truth-seeking and helpful AI",
+        "translation_ru": "«понять вселенную с помощью ИИ, максимально нацеленного на поиск истины и помощь»",
+        "context_ru": "Фрагмент вводного заявления о миссии в документе об управлении рисками. Он описывает цель компании, а не результат конкретного испытания.",
+        "context_en": "An excerpt from the opening mission statement in a risk-management document. It describes the company’s aim, not the result of a particular test.",
+        "connection_ru": "Слова о понимании и стремлении к истине остаются формулировками документа. В письме предложено раздельно показывать такую цель, критерии оценки ответа и основания его применения для решения. Объявленная цель не заменяет этот разбор.",
+        "connection_en": "Understanding and truth-seeking remain terms used in the document. The letter proposes distinguishing such an aim, the criteria for assessing a response, and the grounds for using it in a decision. Stating the aim does not replace that examination."
+      }
+    ]
+  },
+  "events": [
+    {
+      "type": "prepared",
+      "date": "2026-10-04",
+      "title_ru": "Подготовлена редакция 1.0",
+      "title_en": "Edition 1.0 prepared",
+      "body_ru": "Подготовлены полный текст письма, два предлагаемых дополнения и материалы для сравнительного испытания. Выбран адрес для отправки.",
+      "body_en": "The full letter, two proposed additions, and material for a comparative evaluation were prepared. A recipient address was selected.",
+      "channel_ru": "Электронная почта",
+      "channel_en": "Email",
+      "to": [
+        {
+          "email": "safety@x.ai"
+        }
+      ],
+      "cc": [],
+      "recipient_note_ru": "Письмо адресовано xAI, разработчику Grok. Для отправки выбран safety@x.ai — адрес, опубликованный на страницах Contact и Safety для обращений по безопасности моделей и продуктов. Предложение касается оснований описаний и решений, а также возможности их оспорить.",
+      "recipient_note_en": "The letter is addressed to xAI, the developer of Grok. The selected address, safety@x.ai, is published on its Contact and Safety pages for concerns about model and product safety. The proposal concerns the grounds for descriptions and decisions, and the opportunity to challenge them.",
+      "address_sources": [
+        {
+          "url": "https://x.ai/contact",
+          "label_ru": "xAI · Contact · обращение 04.10.2026",
+          "label_en": "xAI · Contact · accessed 4 October 2026"
+        },
+        {
+          "url": "https://x.ai/safety",
+          "label_ru": "xAI · Safety · обращение 04.10.2026",
+          "label_en": "xAI · Safety · accessed 4 October 2026"
+        }
+      ]
+    },
+    {
+      "type": "sent",
+      "date": "2026-10-04",
+      "title_ru": "Отправлено · 04.10.2026",
+      "title_en": "Sent · 4 October 2026",
+      "body_ru": "Автор сообщил об отправке письма на safety@x.ai 4 октября 2026 года. Английская редакция 1.0 сохранена по ссылке ниже.",
+      "body_en": "The author reported sending the letter to safety@x.ai on 4 October 2026. English edition 1.0 is preserved at the link below.",
+      "channel_ru": "Электронная почта",
+      "channel_en": "Email",
+      "to": [
+        {
+          "email": "safety@x.ai"
+        }
+      ],
+      "cc": [],
+      "recipient_note_ru": "Письмо адресовано xAI, разработчику Grok, и отправлено на safety@x.ai — адрес, опубликованный на страницах Contact и Safety для обращений по безопасности моделей и продуктов. Предложение касается оснований описаний и решений, а также возможности их оспорить.",
+      "recipient_note_en": "The letter is addressed to xAI, the developer of Grok, and was sent to safety@x.ai. The address is published on its Contact and Safety pages for concerns about model and product safety. The proposal concerns the grounds for descriptions and decisions, and the opportunity to challenge them.",
+      "address_sources": [
+        {
+          "url": "https://x.ai/contact",
+          "label_ru": "xAI · Contact · обращение 04.10.2026",
+          "label_en": "xAI · Contact · accessed 4 October 2026"
+        },
+        {
+          "url": "https://x.ai/safety",
+          "label_ru": "xAI · Safety · обращение 04.10.2026",
+          "label_en": "xAI · Safety · accessed 4 October 2026"
+        }
+      ],
+      "record_basis": "author_statement",
+      "sent_text": "files/beforeword-xai-en-2026-10-04-v1.0.txt",
+      "sent_sha256": "64eaafff95aab3535ecdfb793262289e9c69ab2cf38f56757d975ebb7e080027"
+    },
+    {
+      "id": "xai-safety-message-2026-10-04",
+      "type": "acknowledged",
+      "date": "2026-10-04",
+      "date_basis": "author_submission_date",
+      "record_basis": "author_supplied_screenshot",
+      "language": "en",
+      "interpretation": "administrative_acknowledgment",
+      "substantive_response": false,
+      "title_ru": "Служебное сообщение xAI Safety Team",
+      "title_en": "Acknowledgment from the xAI Safety Team",
+      "body_ru": "Сообщение с подписью xAI Safety Team описывает порядок обработки обращений. Ответа на предложения открытого письма в нём нет.",
+      "body_en": "A message signed by the xAI Safety Team outlines how submissions are handled. It does not address the proposals in the open letter.",
+      "source_note_ru": "Источник: скриншот, предоставленный автором 4 октября 2026 года. Текст сообщения перенесён со скриншота; экранные переносы строк объединены в абзацы.",
+      "source_note_en": "Source: a screenshot supplied by the author on 4 October 2026. The message was transcribed from the screenshot; screen line breaks have been joined into paragraphs.",
+      "commentary_ru": "Указание на обработку для оценки сформулировано условно: оно относится к обращениям о потенциальной эксплуатации моделей ИИ. Из этого сообщения не следует, что предложения открытого письма уже изучены или приняты к рассмотрению.",
+      "commentary_en": "The statement about processing for evaluation is conditional and applies to submissions about the potential exploitation of AI models. This message does not establish that the proposals in the open letter have been reviewed or accepted for consideration.",
+      "evidence": "reply/xai-safety-message-2026-10-04.png",
+      "text_file": "reply/xai-safety-message-en-2026-10-04.txt",
+      "translation_file_ru": "reply/xai-safety-message-ru-2026-10-04.txt"
+    }
+  ],
+  "source_event_record": "../../../data/company-events.json",
+  "reply_evidence": [
+    {
+      "path": "reply/xai-safety-message-2026-10-04.png",
+      "sha256": "1ba8cd73166456a9806e46ab1706673f6776ad89d31da1cf5a90c0a23cd7ec01"
+    },
+    {
+      "path": "reply/xai-safety-message-en-2026-10-04.txt",
+      "sha256": "306c1ed0b7f06aab670feeaa730f38e73eb994bdced3cc2dceec4418811f88d8"
+    },
+    {
+      "path": "reply/xai-safety-message-ru-2026-10-04.txt",
+      "sha256": "2054b6186561c4144f369f74f5ad1feafaec4ec3d15b7e31c62413fe46937c99"
+    }
+  ]
+}

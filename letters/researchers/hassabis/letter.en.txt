@@ -1,0 +1,22 @@
+beforeword · English transcription from author-supplied screenshots
+Subject: For Demis Hassabis: from readable output to an assessment of reasoning
+
+Please forward this research note to Demis Hassabis.
+
+Dear Dr Hassabis,
+
+Your essay of 14 July 2026 on a frontier AI standards body includes “generating human-readable output tokens to understand model reasoning”.
+
+Please indicate the criterion for treating that output as an account of model reasoning during an assessment, and the grounds for applying it.
+
+Your proposal places this practice within broader scientific evaluations. beforeword proposes examining the interpretive step within it: keeping the written output, what it is read as showing, and the grounds offered for accepting that reading separately inspectable.
+
+The framework’s own formulations belong in this examination. The criterion and its written justification remain further writing, subject to the same scrutiny. This applies equally to human self-descriptions and to this letter.
+
+The reading procedure and worked examples:
+https://beforeword.xyz/model/en/
+
+Kirill Shebetov
+beforeword
+
++

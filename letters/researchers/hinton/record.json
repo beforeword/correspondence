@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "hinton",
+  "series": "researchers",
+  "recipient": "Geoffrey Hinton",
+  "recipient_ru": "Джеффри Хинтон",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "experience",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "geoffrey.hinton@gmail.com"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": false,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "Your account of subjective experience: “the same thing”",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Professor Hinton,",
+        "In the published transcript of your On Point interview of 10 January 2025, a reformulation of a sentence using “subjective experience” is presented as one that “says the same thing”.",
+        "beforeword proposes examining the grounds for that claim.\nThe two sentences appear as written forms. Reading them as equivalent adds an interpretation of their relation. That interpretation does not, by itself, establish equivalence.",
+        "The robot-and-prism passage provides a concrete place to examine the move from wording to an attribution of subjective experience. The proposal keeps the wording, the selected interpretation, and the stated grounds for using it in a further conclusion separately inspectable.",
+        "This applies equally to human self-descriptions and to this letter. Stated grounds remain further writing, available for the same examination.\nThe reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Please indicate the criterion for treating the reformulation as equivalent, and the grounds for applying it here.",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "737485b13965343757a9c77f87c5a1577c52bd01357b615289d6817ab645d091",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Ваше объяснение субъективного опыта: «то же самое»",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый профессор Хинтон,",
+        "В опубликованной расшифровке вашего интервью On Point от 10 января 2025 года предложена другая формулировка предложения с выражением «субъективный опыт»; о ней сказано, что она «говорит то же самое».",
+        "beforeword предлагает рассмотреть основания этого утверждения.\nОба предложения представлены как написанные формы. Прочтение их как эквивалентных добавляет толкование связи между ними. Само по себе это толкование не устанавливает их эквивалентности.",
+        "На фрагменте о роботе и призме можно рассмотреть конкретный переход от формулировки к приписыванию субъективного опыта. Предлагается отдельно рассматривать формулировку, выбранное толкование и указанные основания для использования этого толкования в дальнейшем выводе.",
+        "Это в равной мере относится к человеческим самоописаниям и к этому письму. Изложение оснований тоже остаётся написанным текстом, доступным для такого же разбора.\nПроцедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Пожалуйста, укажите критерий, по которому новая формулировка признаётся эквивалентной исходной, и основания для применения этого критерия в данном случае.",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "a1a6726f9517f0f14ccdf4ef83e79186b34716cda442473fabfb6e6c7635c2ad",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What supports saying that two formulations “say the same thing”?",
+      "ru": "Что обосновывает утверждение, что две формулировки «говорят то же самое»?"
+    },
+    "purpose": {
+      "en": [
+        "The letter responds to a passage in Hinton’s On Point interview transcript where a reformulation is said to mean the same thing as a sentence using “subjective experience”.",
+        "Readers need to see what supports the claim that a change in wording preserves meaning, especially when that claim supports a further conclusion about subjective experience. The proposal keeps the sentences and the claim of equivalence open to separate examination.",
+        "Using the robot-and-prism passage, the letter asks for a criterion for that equivalence and a reason for applying it in this case."
+      ],
+      "ru": [
+        "Поводом стало место в расшифровке интервью Хинтона, где другая формулировка предложения с выражением «субъективный опыт» представлена как передающая то же самое.",
+        "Читателю важно видеть, чем обоснован вывод, что замена слов сохраняет смысл, особенно если он поддерживает дальнейшее утверждение о субъективном опыте. Поэтому сами предложения и утверждение об их равнозначности предлагается рассматривать отдельно.",
+        "На примере фрагмента о роботе и призме письмо просит назвать критерий такой равнозначности и пояснить, почему он применим именно здесь."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "The ‘Godfather of AI’ says we can’t afford to get it wrong",
+      "url": "https://www.wbur.org/onpoint/2025/01/10/ai-geoffrey-hinton-physics-nobel-prize",
+      "locator_ru": "On Point, 10 января 2025 года. Конец части II и начало части III: переформулировка subjective experience и пример с призмой.",
+      "locator_en": "On Point, 10 January 2025. End of Part II and start of Part III: the subjective-experience reformulation and prism example.",
+      "note_ru": "Расшифровка интервью, опубликованная самим вещателем WBUR.",
+      "note_en": "The interview transcript published by the broadcaster, WBUR.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8865.PNG",
+      "sha256": "eeda62d32a29450ca07abcd4715be6e7d69b608dbe4972c339472fcbd71ea85c"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8866.PNG",
+      "sha256": "d8895b5d077c51050e6cf5c9caff9b79d3aa4f81753bba0773a615a4791533f4"
+    }
+  ]
+}

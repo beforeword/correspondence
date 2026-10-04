@@ -1,0 +1,20 @@
+beforeword · English transcription from author-supplied screenshots
+Subject: The human side of your account of LLM belief
+
+Dear Murray,
+
+Your clarification of “Talking About Large Language Models” places the discussion of belief in the use of words, with attention to the capabilities and behaviour of the system being described.
+
+beforeword proposes a requirement for explanations that rely on such attributions: keep the recorded words, the interpretation added to them, and the grounds for that interpretation separately inspectable. This includes human self-descriptions.
+
+For “I believe this”, a human source may warrant a different interpretation from an AI source. The proposed requirement is to make the grounds for that difference explicit wherever the attribution supports a further conclusion.
+
+The reading procedure and worked examples:
+https://beforeword.xyz/model/en/
+
+Please consider a brief critical response on the human case—particularly whether this requirement clarifies belief-attribution or asks for more justification than ordinary usage requires.
+
+Kirill Shebetov
+beforeword
+
++

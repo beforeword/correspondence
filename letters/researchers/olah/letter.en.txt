@@ -1,0 +1,22 @@
+beforeword · English transcription from author-supplied screenshots
+Subject: NLA explanations: evidence for each claim
+
+Dear Chris,
+
+Anthropic’s NLA article describes a method that “does speak for itself—literally.” It also acknowledges that the resulting explanations can hallucinate and require independent corroboration.
+
+beforeword proposes a specific addition to how these results are presented: keep each generated claim beside the measurement, intervention or behavioural check offered to support it.
+
+Reconstruction quality would remain visible as one kind of support, with its scope explicit. An attribution such as “the model suspected a test” would retain a separate account of the evidence supporting that interpretation.
+
+The proposal distinguishes the recorded material, the explanation generated from it, and the grounds for accepting particular claims in that explanation.
+
+The reading procedure and worked examples:
+https://beforeword.xyz/model/en/
+
+Please consider a brief critical response on whether this distinction would be useful in NLA research interfaces.
+
+Kirill Shebetov
+beforeword
+
++

@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "id": "williamson",
+  "series": "researchers",
+  "recipient": "Timothy Williamson",
+  "recipient_ru": "Тимоти Уильямсон",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "evidence",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [],
+    "full_address_visible": false,
+    "additional_recipient_address_not_shown": true,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "Knowledge as Evidence: one sentence, one supporting claim",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Professor Williamson,",
+        "In “Knowledge as Evidence”, you write: “knowledge, and only knowledge, constitutes evidence”.",
+        "The reading proposed here treats E = K as a substantive thesis and includes your rejection of an infallible test for identifying evidence.",
+        "A written explanation adds another formulation. beforeword asks that its interpretation and its role in supporting the original claim be made explicit. The label “justification” is itself part of what is being examined.",
+        "Please indicate, using one sentence from this letter, a proposed reading and one supporting statement, explaining how that statement would support attributing to a reader knowledge that the claim, so interpreted, is true.",
+        "The supporting statement would extend the written record. Its wording, its interpretation, and its proposed evidential role would remain separately inspectable.",
+        "This examination also includes any stated criteria, descriptions of observations, human self-descriptions, and the wording of beforeword’s own procedure. This letter and its terms “writing”, “reading”, “knowledge” and “evidence” receive the same treatment.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "6936b4143a11ec9a3bfd570b07486ee17389f1175e78b58d53d91e2c305881f6",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Знание как свидетельство: одно предложение, одно высказывание в его поддержку",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый профессор Уильямсон,",
+        "В работе «Knowledge as Evidence» Вы пишете: «Знание — и только знание — является свидетельством».",
+        "Предлагаемое здесь прочтение рассматривает E = K как содержательный тезис и учитывает Ваш отказ от безошибочного теста для определения того, что является свидетельством.",
+        "Письменное объяснение добавляет ещё одну формулировку. beforeword предлагает явно показать, как она читается и какую роль играет в поддержке исходного утверждения. Само обозначение «обоснование» тоже входит в предмет разбора.",
+        "Пожалуйста, выберите одно предложение из этого письма, предложите его прочтение и одно высказывание в поддержку этого прочтения. Поясните, как это высказывание позволило бы приписать читателю знание того, что утверждение, прочитанное таким образом, истинно.",
+        "Поддерживающее высказывание дополнит письменную запись. Его формулировка, интерпретация и предполагаемая роль в качестве свидетельства останутся доступными для отдельного рассмотрения.",
+        "Этот разбор также включает любые сформулированные критерии, описания наблюдений, описания людьми самих себя и формулировку собственной процедуры beforeword. То же относится к этому письму и его терминам «написанное», «чтение», «знание» и «свидетельство».",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "0ca2d4b02a79fb217756a0d98a0200e33626bd1f88b255a06d407b799daefd12",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What supports saying that a reader knows a claim is true?",
+      "ru": "На каком основании читателю приписывают знание, что утверждение истинно?"
+    },
+    "purpose": {
+      "en": [
+        "The letter addresses Williamson’s quoted thesis about knowledge as evidence. It asks how a written supporting statement justifies saying that a reader knows a particular claim is true.",
+        "This matters when assessing an argument: an added explanation has its own wording, interpretation and claimed role in supporting a conclusion.",
+        "The letter asks for one sentence, a proposed reading and a supporting statement, followed by an account of how that support warrants attributing knowledge to the reader. Calling the statement a justification is also open to examination."
+      ],
+      "ru": [
+        "Письмо обращается к цитируемому тезису Уильямсона о знании как свидетельстве. Оно спрашивает, как письменный довод позволяет утверждать, что читатель знает: конкретное утверждение истинно.",
+        "Это важно при чтении обоснования: у добавленного объяснения тоже есть своя формулировка, толкование и заявленная роль в поддержке вывода.",
+        "Письмо просит выбрать одно предложение, предложить его прочтение и одно высказывание в поддержку этого прочтения, а затем показать, как оно позволяет говорить о знании читателя. Само название «обоснование» тоже остаётся предметом разбора."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "Timothy Williamson — Knowledge as Evidence",
+      "url": "https://fitelson.org/epistemology/williamson.pdf#page=3",
+      "locator_ru": "С. 718: E = K; с. 722–723: отсутствие безошибочного способа распознавать знание.",
+      "locator_en": "P. 718: E = K; pp. 722–723: no infallible method for identifying knowledge.",
+      "note_ru": "Копия журнального текста Mind 106(424), 1997, с. 717–741, размещённая в учебной подборке Брандена Фителсона.",
+      "note_en": "Copy of the Mind 106(424), 1997, pp. 717–741 article, hosted in Branden Fitelson’s teaching materials.",
+      "match": "exact"
+    },
+    {
+      "title": "Knowledge as evidence — Mind / Oxford University Press",
+      "url": "https://academic.oup.com/mind/article-abstract/106/424/717/959458",
+      "locator_ru": "Страница статьи у издателя; DOI 10.1093/mind/106.424.717.",
+      "locator_en": "Publisher’s article page; DOI 10.1093/mind/106.424.717.",
+      "note_ru": "Выходные данные публикации; открытый полный текст доступен по отдельной ссылке выше.",
+      "note_en": "Publication details; an openly readable copy is linked separately above.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8895.PNG",
+      "sha256": "4ca71909529b9ffcb331ba6754662ff9410137affe0c55c88a7cd41cd263b477"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8896.PNG",
+      "sha256": "5b57149e2eadc8274b46c790f297d165534f07ecf935f9691d97d99726d6457a"
+    }
+  ]
+}

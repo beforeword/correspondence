@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "hofstadter",
+  "series": "researchers",
+  "recipient": "Douglas Hofstadter",
+  "recipient_ru": "Дуглас Хофштадтер",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "experience",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "dughof@iu.edu"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": false,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "Your account of the self: from definition to attribution",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Professor Hofstadter,",
+        "In your September 2007 interview with Tal Cohen and Yarden Nir-Buchbinder, you discuss a conditional claim: if a soul is a pattern, a sufficiently fine-grained realization of that pattern counts, under your definition, as “the soul itself”.",
+        "Please indicate the criterion of sufficient detail for treating two proposed realizations as the same self, and the grounds for applying it in a particular case.",
+        "beforeword proposes keeping three elements separately inspectable: the written comparison, the attribution of a shared identity, and the grounds offered for that attribution.",
+        "The terms used to explain the attribution—including “pattern” and “self”—remain part of the writing under examination. Definitions and their written justifications receive the same treatment. This also applies to human self-descriptions and to this letter.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "a4fe5af9c879b89ac6b741fd43a5a448fabee367759ea46f92bc57c8f375ddf9",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Ваше описание «я»: от определения к приписыванию",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый профессор Хофштадтер,",
+        "В интервью, которое в сентябре 2007 года провели Тал Коэн и Ярден Нир-Бухбиндер, Вы обсуждаете условное утверждение: если душа — это паттерн, то достаточно детальное воспроизведение этого паттерна, согласно Вашему определению, считается «самой душой».",
+        "Пожалуйста, укажите, по какому критерию детализация считается достаточной, чтобы рассматривать два предложенных воспроизведения как одно и то же «я», и на каком основании этот критерий применяется в конкретном случае.",
+        "beforeword предлагает сохранять возможность по отдельности рассматривать три элемента: письменное сравнение, приписываемое тождество и доводы в пользу такого приписывания.",
+        "Термины, которыми объясняется это приписывание, включая «паттерн» и «я», остаются частью разбираемого текста. Определения и их письменные обоснования подлежат тому же рассмотрению. Это также относится к тому, как люди описывают себя, и к этому письму.",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "517633a65ee00520ea5f4e2296c17af4f33068acc7bf78f24692bc893a95230b",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What supports treating two instances of a pattern as the same self?",
+      "ru": "На каком основании два воспроизведения паттерна признают одним и тем же «я»?"
+    },
+    "purpose": {
+      "en": [
+        "The letter considers a conditional argument: if a soul is defined as a pattern, a sufficiently detailed reproduction of that pattern counts, under the definition, as the soul itself.",
+        "Readers need to see what is being compared and how that comparison supports treating two instances of the pattern as the same self.",
+        "The letter asks what level of detail counts as sufficient and what supports applying that criterion in a particular case. The definition and the wording used to explain it also remain open to examination."
+      ],
+      "ru": [
+        "Письмо касается условного рассуждения: если душа определяется как паттерн, его достаточно подробное воспроизведение считается, согласно данному определению, самой душой.",
+        "Читателю здесь нужно видеть, что именно сравнивается и как из сравнения получают вывод об одном и том же «я».",
+        "Письмо просит уточнить, какая детализация считается достаточной и что позволяет применить этот критерий в конкретном случае. Определение и объясняющие его слова тоже остаются предметом разбора."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "An Interview with Douglas R. Hofstadter, following ‘I am a Strange Loop’",
+      "url": "https://tal.forum2.org/hofstadter_interview",
+      "locator_ru": "Интервью проведено в сентябре 2007 года; английская страница опубликована 11 июня 2008 года. Ответ о паттерне и реализации души.",
+      "locator_en": "Interview conducted in September 2007; English page published 11 June 2008. The answer about patterns and realizations of a soul.",
+      "note_ru": "Публикация интервьюера Тала Коэна; дата беседы и дата публикации страницы различаются.",
+      "note_en": "Published by interviewer Tal Cohen; the interview date differs from the page’s publication date.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8875.PNG",
+      "sha256": "04c1cc7249aaa9a4036340351a9c944ad9912ad6b5380b9b77579f6eae24638a"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8876.PNG",
+      "sha256": "c88e89a872458f7619308f178785ba3ecb1f750356cb9342546a36db6c6d146d"
+    }
+  ]
+}

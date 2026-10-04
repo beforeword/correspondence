@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "bengio",
+  "series": "researchers",
+  "recipient": "Yoshua Bengio",
+  "recipient_ru": "Йошуа Бенжио",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "ai",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "yoshua.bengio@mila.quebec"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": false,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "Scientist AI: the grounds for treating a record as an observation",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Professor Bengio,",
+        "“S asserted X” first appears as a written form. Reading it as a record of an observed communication act assigns it a role that requires grounds.",
+        "Section 3.2.1 of “Safety from Honesty in a Disinterested AI Predictor” provides a concrete place to examine this step. Remark 3.27 already acknowledges possible contextualization errors.",
+        "beforeword proposes keeping three things separately inspectable: what is written, what it is read as recording, and the grounds for using that reading as a premise.",
+        "This applies equally to the framework’s own formulations. Describing something as “observed” is itself a written attribution; the grounds for admitting it as an observation need to remain explicit. Source metadata and explanations of those grounds remain further records, subject to the same examination.",
+        "The argument and examples:\nhttps://beforeword.xyz/research/no-authority-in-the-output/en/",
+        "Please consider a brief response on the criterion your framework uses to admit such an attribution as an observation for training, and how the grounds for applying that criterion would remain available for examination.",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "ab9dd8942906afbd8ed4c189e5d6dc7c4a4ed13b21364887a3b07d789160512c",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Scientist AI: на каком основании запись принимают как наблюдение",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый профессор Бенжио,",
+        "«S утверждал X» сначала появляется как написанная форма. Когда её читают как запись наблюдавшегося акта общения, ей отводят роль, которую требуется обосновать.",
+        "Этот переход можно рассмотреть на конкретном материале раздела 3.2.1 работы «Safety from Honesty in a Disinterested AI Predictor». В замечании 3.27 уже признаётся возможность ошибок при учёте контекста.",
+        "beforeword предлагает раздельно рассматривать три элемента: что написано; что, согласно выбранному прочтению, зафиксировано в записи; на чём основано использование этого прочтения как предпосылки.",
+        "Это в равной мере относится к формулировкам самого подхода. Описание чего-либо как «наблюдавшегося» само является письменной характеристикой; основания для принятия этого описания как наблюдения должны быть указаны явно. Метаданные источника и объяснения этих оснований тоже остаются записями, подлежащими такому же разбору.",
+        "Аргумент и примеры:\nhttps://beforeword.xyz/research/no-authority-in-the-output/en/",
+        "Пожалуйста, кратко поясните, по какому критерию в вашем подходе такое описание принимается как наблюдение для обучения и как сохранить возможность рассмотреть основания применения этого критерия.",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "f1a3dff55c9db6c51434a87e0b78b0d556b003ad298c1e220eb1ce91253fac7a",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What supports admitting a written record as an observation for AI training?",
+      "ru": "Почему запись принимают как наблюдение при обучении ИИ?"
+    },
+    "purpose": {
+      "en": [
+        "The letter examines a step in the discussion of Scientist AI: reading “S asserted X” as a record of an observed act of communication and using that reading as a premise.",
+        "Readers need to distinguish the written sentence, the event it is taken to record, and the reason for accepting that reading in AI training. The label “observation”, source information and explanations of their role remain records that can themselves be examined.",
+        "The letter asks for the criterion used to accept such a description as an observation for training, and how the reasons for applying it can remain open to examination."
+      ],
+      "ru": [
+        "Письмо рассматривает шаг в обсуждении Scientist AI: фразу «S утверждал X» читают как запись наблюдавшегося акта общения и используют это прочтение как предпосылку.",
+        "Читателю важно различать написанную фразу, событие, записью которого её считают, и причину принятия такого прочтения при обучении ИИ. Пометка «наблюдение», сведения об источнике и объяснения их роли также остаются записями, которые можно разобрать.",
+        "Письмо просит назвать критерий, по которому такое описание принимают как наблюдение для обучения, и пояснить, как сохранить возможность рассмотреть основания его применения."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "Safety from Honesty in a Disinterested AI Predictor",
+      "url": "https://arxiv.org/html/2606.29657v2",
+      "locator_ru": "arXiv, версия 2 от 10 июля 2026 года. §3.2.1 Contextualization, замечания 3.23, 3.26 и 3.27; с. 15–16 PDF.",
+      "locator_en": "arXiv version 2, 10 July 2026. §3.2.1 Contextualization, Remarks 3.23, 3.26 and 3.27; PDF pp. 15–16.",
+      "note_ru": "В этой версии присутствуют указанные в письме раздел и замечание об ошибках контекстуализации.",
+      "note_en": "This version contains the section and remark on contextualization errors referenced in the letter.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8863.PNG",
+      "sha256": "a7e1d45a62a8f3bcc3228de8daeeb664605aabba9a2dd3b074dfa77125781631"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8864.PNG",
+      "sha256": "5ef7f20d3c35f21e4db32bac70b2958d68e9ba54e3fe95a48b34585a126b5cad"
+    }
+  ]
+}

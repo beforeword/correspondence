@@ -1,0 +1,22 @@
+beforeword · English transcription from author-supplied screenshots
+Subject: Reading this letter: what the wording does not encode
+
+Dear Professor Sperber,
+
+In “Relevance Theory” (2004), you and Deirdre Wilson describe interpretation as requiring “an appropriate set of contextual assumptions, which the hearer must also supply”.
+
+Your account explicitly treats the resulting interpretation as a hypothesis that may be false.
+
+Please indicate, for one sentence in this letter, a contextual assumption not encoded in its wording that supports an inference about the writer’s intended meaning, and the grounds for using it.
+
+beforeword proposes keeping three elements separately inspectable: the written sentence, the meaning attributed to its writer, and the assumptions and grounds supporting that attribution.
+
+The terms “meaning”, “intention” and “context” remain part of the writing under examination. Any proposed criterion and its justification, human self-descriptions, and this letter receive the same treatment.
+
+The reading procedure and worked examples:
+https://beforeword.xyz/model/en/
+
+Kirill Shebetov
+beforeword
+
++

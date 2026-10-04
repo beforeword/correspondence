@@ -1,0 +1,24 @@
+beforeword · English transcription from author-supplied screenshots
+Subject: Virtual nociceptors: grounds for attributing pain
+
+Dear Dr Bostrom,
+
+In “Propositions Concerning Digital Minds and Society” (v. 1.21), with Carl Shulman, the virtual-animal example includes the phrase “behavioral criteria used to identify animal pain”.
+
+The reading proposed here preserves the draft’s tentative status and its qualification that behavioural criteria may be met while key internal features are missing.
+
+For the described avoidance of virtual nociceptor activation, please indicate one supporting premise and explain how it would support an attribution of experienced pain to the system.
+
+beforeword proposes keeping the written scenario, the proposed experiential interpretation, and the supporting premises separately inspectable.
+
+A written explanation adds another formulation. Its interpretation and its proposed evidential role also enter the examination; the label “evidence” leaves that role to be shown.
+
+The same examination includes descriptions of algorithms and animal behaviour, human self-reports, stated criteria, the wording of beforeword’s own procedure, and this letter—including its terms “pain”, “evidence”, “writing” and “reading”.
+
+The reading procedure and worked examples:
+https://beforeword.xyz/model/en/
+
+Kirill Shebetov
+beforeword
+
++

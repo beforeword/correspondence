@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "lecun",
+  "series": "researchers",
+  "recipient": "Yann LeCun",
+  "recipient_ru": "Ян Лекун",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "ai",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "yann@cs.nyu.edu"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": false,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "V-JEPA: the criterion for progress toward understanding",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Professor LeCun,",
+        "Meta’s article of 15 February 2024 quotes you calling V-JEPA “a step toward a more grounded understanding of the world”.",
+        "Please indicate the criterion connecting the reported action-recognition results to that formulation, and the grounds for applying it here.",
+        "beforeword proposes keeping three elements separately inspectable: what is written, what it is read as showing, and the grounds offered for accepting that reading.",
+        "Here, the proposed examination concerns both the written account of task performance and its interpretation as progress toward understanding.",
+        "The criterion and its written justification remain further formulations whose interpretation and grounds can also be examined. The same examination applies to human self-descriptions and to this letter.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "7815aa4d35a6a211bdd0ec42bc1dfa634efd5b4052bcd5b3dd7376dc6db6dfb6",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "V-JEPA: критерий продвижения к пониманию",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый профессор Лекун,",
+        "В статье Meta от 15 февраля 2024 года приводятся Ваши слова о V-JEPA как о «шаге к более основательному пониманию мира».",
+        "Пожалуйста, укажите критерий, который связывает описанные результаты распознавания действий с этой формулировкой, и основания для его применения в данном случае.",
+        "beforeword предлагает сохранять возможность по отдельности рассматривать три элемента: написанное, то, что оно показывает согласно выбранному прочтению, и доводы в пользу принятия такого прочтения.",
+        "Здесь разбор касается и письменного отчёта о выполнении задачи, и его интерпретации как продвижения к пониманию.",
+        "Критерий и его письменное обоснование остаются дополнительными формулировками: их интерпретацию и основания тоже можно рассмотреть. Тот же разбор относится к тому, как люди описывают себя, и к этому письму.",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "cfbc437d36c5cb5801b23fe7e655e3648af90fa679dca09fab6f347153bc5d4a",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What supports reading action-recognition results as progress toward understanding the world?",
+      "ru": "На каком основании результаты распознавания действий читают как шаг к пониманию мира?"
+    },
+    "purpose": {
+      "en": [
+        "The letter places reported action-recognition results alongside the quoted description of V-JEPA as a step toward a more grounded understanding of the world.",
+        "Readers need to see how an account of performance on a specific task connects to a broader claim about understanding.",
+        "The letter asks for the criterion connecting the two and an explanation of why it applies here. It also proposes keeping that criterion and its written justification open to examination."
+      ],
+      "ru": [
+        "В письме сопоставлены описанные результаты распознавания действий и цитируемая формулировка о V-JEPA как о шаге к более основательному пониманию мира.",
+        "Читателю важно видеть, как описание выполнения конкретной задачи связано с более широким выводом о понимании.",
+        "Письмо просит указать связывающий их критерий и пояснить, почему его применяют в этом случае. Сам критерий и его письменное обоснование также предложено оставить открытыми для разбора."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "V-JEPA: The next step toward Yann LeCun’s vision of advanced machine intelligence (AMI)",
+      "url": "https://ai.meta.com/blog/v-jepa-yann-lecun-ai-model-video-joint-embedding-predictive-architecture/",
+      "locator_ru": "Meta AI, 15 февраля 2024 года. Цитата Лекуна перед разделом Video JEPA in focus.",
+      "locator_en": "Meta AI, 15 February 2024. LeCun’s quotation immediately before Video JEPA in focus.",
+      "note_ru": "Публикация Meta о первой V-JEPA, указанная в письме.",
+      "note_en": "The Meta article about the original V-JEPA discussed in the letter.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8869.PNG",
+      "sha256": "761ecbf9edcfc3da521b250a7ada128dbc56e0e363b06ba3c95b02692333d2a5"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8870.PNG",
+      "sha256": "37762df961ae6975c63116cea7f6a1a1690be5bdecb23ef92f330c16432d2e24"
+    }
+  ]
+}

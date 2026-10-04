@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "olah",
+  "series": "researchers",
+  "recipient": "Chris Olah",
+  "recipient_ru": "Крис Ола",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "ai",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": "2026-10-02",
+    "time_display": "00:21",
+    "timezone": null,
+    "calendar_date_shown": true,
+    "visible_weekday_label": null,
+    "to": [
+      "christopherolah.co@gmail.com"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": false,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "NLA explanations: evidence for each claim",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Chris,",
+        "Anthropic’s NLA article describes a method that “does speak for itself—literally.” It also acknowledges that the resulting explanations can hallucinate and require independent corroboration.",
+        "beforeword proposes a specific addition to how these results are presented: keep each generated claim beside the measurement, intervention or behavioural check offered to support it.",
+        "Reconstruction quality would remain visible as one kind of support, with its scope explicit. An attribution such as “the model suspected a test” would retain a separate account of the evidence supporting that interpretation.",
+        "The proposal distinguishes the recorded material, the explanation generated from it, and the grounds for accepting particular claims in that explanation.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Please consider a brief critical response on whether this distinction would be useful in NLA research interfaces.",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "4f06396ca9119889754d7400fee53b2eb6537a3d17fd8214327cbc3cc89d0e1a",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Объяснения NLA: основания для каждого утверждения",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый Крис,",
+        "В статье Anthropic о NLA описывается метод, который «действительно говорит сам за себя — буквально». В ней также признаётся, что полученные объяснения могут содержать выдуманные сведения и требуют независимого подтверждения.",
+        "beforeword предлагает конкретное дополнение к представлению результатов: рядом с каждым сгенерированным утверждением показывать измерение, вмешательство или проверку поведения, которыми предлагается его обосновать.",
+        "Качество реконструкции по-прежнему явно указывалось бы как один из видов обоснования, с обозначением пределов его применимости. Для толкования вроде «модель заподозрила, что её тестируют» отдельно указывались бы данные, на которые оно опирается.",
+        "Предлагается различать зафиксированный материал, сгенерированное на его основе объяснение и основания для принятия каждого конкретного утверждения в этом объяснении.",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Пожалуйста, дайте краткую критическую оценку: было бы такое различение полезно в исследовательских интерфейсах NLA?",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "9da488d9845a0ddcb545b17890d60986167b929aa97656aa47e74976b5f262ce",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What supports each claim in an explanation of a model’s behavior?",
+      "ru": "Что обосновывает каждое утверждение в объяснении работы модели?"
+    },
+    "purpose": {
+      "en": [
+        "The letter concerns NLA, a method used to produce explanations of a model’s workings. It responds to Anthropic’s description of the method as speaking for itself, alongside the article’s acknowledgment that the explanations need independent corroboration.",
+        "Readers should be able to see what supports each claim: a measurement, an intervention in the model, or a behavioral check. This allows a claim such as “the model suspected a test” to be examined separately from the material offered in support.",
+        "The letter proposes showing each generated claim alongside that material and asks whether this would help researchers use the results."
+      ],
+      "ru": [
+        "Письмо касается метода NLA, с помощью которого получают объяснения работы модели. Поводом стала формулировка статьи Anthropic о методе, который буквально «говорит сам за себя», при том что статья признаёт необходимость независимого подтверждения этих объяснений.",
+        "Читателю важно видеть, чем поддержано каждое утверждение: измерением, вмешательством в работу модели или проверкой её поведения. Это позволяет отдельно рассмотреть, например, вывод «модель заподозрила, что её тестируют» и материал, которым его обосновывают.",
+        "Письмо предлагает показывать каждое сгенерированное утверждение рядом с таким материалом и просит оценить пользу этого решения для исследовательских интерфейсов."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "Natural Language Autoencoders: Turning Claude’s thoughts into text",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "locator_ru": "7 мая 2026 года. Введение; разделы What is a natural language autoencoder? и The future of NLAs.",
+      "locator_en": "7 May 2026. Introduction; What is a natural language autoencoder?; The future of NLAs.",
+      "note_ru": "Статья с обсуждаемой формулировкой, методом оценки реконструкции и оговорками о возможных ошибках объяснений.",
+      "note_en": "The article contains the discussed wording, the reconstruction-based evaluation method and limitations on the explanations.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8857.PNG",
+      "sha256": "e968584d2d119362ce67b98554173e16e35dff41a3adb74df1fb4c66acd18ca3"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8858.PNG",
+      "sha256": "684f45994d73256b38ff72ea201802db9235a41ebe20e1f98b9f3239421a46d6"
+    }
+  ]
+}

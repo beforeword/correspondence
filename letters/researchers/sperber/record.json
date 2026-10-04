@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "sperber",
+  "series": "researchers",
+  "recipient": "Dan Sperber",
+  "recipient_ru": "Дэн Спербер",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "language",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "dan@sperber.fr"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": true,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "Reading this letter: what the wording does not encode",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Professor Sperber,",
+        "In “Relevance Theory” (2004), you and Deirdre Wilson describe interpretation as requiring “an appropriate set of contextual assumptions, which the hearer must also supply”.",
+        "Your account explicitly treats the resulting interpretation as a hypothesis that may be false.",
+        "Please indicate, for one sentence in this letter, a contextual assumption not encoded in its wording that supports an inference about the writer’s intended meaning, and the grounds for using it.",
+        "beforeword proposes keeping three elements separately inspectable: the written sentence, the meaning attributed to its writer, and the assumptions and grounds supporting that attribution.",
+        "The terms “meaning”, “intention” and “context” remain part of the writing under examination. Any proposed criterion and its justification, human self-descriptions, and this letter receive the same treatment.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "8faaca99f13ec5e26f0ea6df8b2c14964d95869fd2ca09f1f60b7e684bbd9530",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Чтение этого письма: что не закодировано в формулировке",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый профессор Спербер,",
+        "В работе «Relevance Theory» (2004) Вы и Дейрдра Уилсон описываете интерпретацию как требующую «подходящего набора контекстуальных предположений, который слушающий также должен привнести».",
+        "В Вашем изложении полученная интерпретация прямо рассматривается как гипотеза, которая может оказаться ложной.",
+        "Пожалуйста, выберите одно предложение из этого письма и укажите предположение о контексте, которое не закодировано в его формулировке, но поддерживает вывод о том, какой смысл имел в виду автор. Поясните также основания для использования этого предположения.",
+        "beforeword предлагает сохранять возможность по отдельности рассматривать три элемента: написанное предложение, смысл, приписанный его автору, и предположения и доводы, на которых строится это приписывание.",
+        "Термины «смысл», «намерение» и «контекст» остаются частью разбираемого текста. Тот же разбор относится к любому предложенному критерию и его обоснованию, описаниям людьми самих себя и этому письму.",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "ef8c69fcba7bed9878960158490e3019a01149096c04b986d90fbaca61230e51",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What is added to the wording when inferring what the writer meant?",
+      "ru": "Что добавляется к словам при выводе о смысле, который имел в виду автор?"
+    },
+    "purpose": {
+      "en": [
+        "The letter takes up an account from relevance theory in which interpretation draws on assumptions not encoded in the wording. It uses one of its own sentences to make that step available for examination.",
+        "The reader’s question is an everyday one: what is written, and what is added when inferring what the writer meant?",
+        "The letter asks for one assumption not encoded in the sentence, its role in that inference, and a reason for choosing it. This makes a particular reading open to examination while retaining the possibility of error acknowledged in the letter."
+      ],
+      "ru": [
+        "Письмо обращается к положению теории релевантности: при чтении используются предположения, не закодированные в самой формулировке. Оно предлагает рассмотреть этот шаг на одном из собственных предложений.",
+        "Для читателя вопрос повседневный: что написано и что добавлено при выводе о том, какой смысл имел в виду автор.",
+        "Письмо просит назвать одно предположение, которого нет в формулировке, показать его роль в таком выводе и пояснить, почему оно выбрано. Конкретное прочтение становится доступным для разбора, при этом сохраняется отмеченная в письме возможность его ошибочности."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "Deirdre Wilson & Dan Sperber — Relevance Theory (2004)",
+      "url": "https://www.dan.sperber.fr/?p=93",
+      "locator_ru": "Абзацы о контекстуальных допущениях и возможности ложного толкования перед разделом 4, Relevance and comprehension.",
+      "locator_en": "Paragraphs on contextual assumptions and a potentially false interpretation immediately before section 4, Relevance and comprehension.",
+      "note_ru": "Полный текст главы 2004 года на сайте соавтора; обсуждаемые фрагменты находятся рядом.",
+      "note_en": "Full text of the 2004 chapter on the coauthor’s website; the passages discussed appear close together.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8893.PNG",
+      "sha256": "a1e3cdd711a0d099a6ec083dcebb080a6644f1ad7038d8a3dcee26b5e0fbf5cc"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8894.PNG",
+      "sha256": "2886e4eb7f99d4ef035bfafa80c9d50de1cab91e33cbebbb8cd12d3124a9b30f"
+    }
+  ]
+}

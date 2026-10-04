@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "metzinger",
+  "series": "researchers",
+  "recipient": "Thomas Metzinger",
+  "recipient_ru": "Томас Метцингер",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "experience",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "metzinger@uni-mainz.de"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": false,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "Your study of awareness: the grounds for reading the reports",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Professor Metzinger,",
+        "In The Elephant and the Blind (Introduction, p. xxvi), you write that “the blind people’s response patterns are only words”.",
+        "Please indicate what grounds would support reading a particular report as evidence of pure awareness, and how those grounds would be distinguished from the report’s classification.",
+        "Your introduction already acknowledges the provisional nature of the grouping. beforeword proposes keeping three elements separately inspectable: the written report, what it is read as describing, and the grounds offered for accepting that reading.",
+        "“Pure awareness” also remains a written expression within this account. The proposed criterion, written descriptions of supporting research, and their interpretation receive the same examination. This applies equally to human self-descriptions and to this letter.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "54a51a008eb64a46c6c9319033d8a94642e052f63ccca12c1f66ca7c898d1d66",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Ваше исследование осознавания: основания для прочтения сообщений",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый профессор Метцингер,",
+        "В книге «The Elephant and the Blind» (введение, с. xxvi) Вы пишете, что «паттерны ответов слепых — лишь слова».",
+        "Пожалуйста, укажите, что могло бы обосновать прочтение конкретного сообщения как свидетельства чистого осознавания и чем такое обоснование отличалось бы от классификации сообщения.",
+        "В Вашем введении уже отмечен предварительный характер этой группировки. beforeword предлагает сохранять возможность по отдельности рассматривать три элемента: письменное сообщение, то, что оно описывает согласно выбранному прочтению, и доводы в пользу принятия такого прочтения.",
+        "«Чистое осознавание» тоже остаётся письменным выражением в этом изложении. Предлагаемый критерий, письменные описания исследований, на которые ссылаются в обосновании, и их интерпретация подлежат тому же разбору. Это в равной мере относится к тому, как люди описывают себя, и к этому письму.",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "6fd5dea0b92a25e3f747feb1c1aed600212762112f195ea7760a54821ae0e893",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What supports reading a report as evidence of “pure awareness”?",
+      "ru": "На каком основании сообщение читают как свидетельство «чистого осознавания»?"
+    },
+    "purpose": {
+      "en": [
+        "The letter concerns reading reports as evidence of “pure awareness” and starts from a quoted observation about the verbal form of the responses.",
+        "Readers need to distinguish assigning a report to a category from explaining why it can serve as evidence of what it describes.",
+        "The letter asks what supports that reading of a particular report and how this support differs from its classification. It includes the expression “pure awareness”, written accounts of research and the proposed criterion in the same examination."
+      ],
+      "ru": [
+        "Письмо касается чтения сообщений как свидетельств «чистого осознавания» и отталкивается от цитируемого замечания о том, что ответы представлены словами.",
+        "Читателю важно различать отнесение сообщения к категории и обоснование вывода, который по этому сообщению делают.",
+        "Письмо просит уточнить, что поддерживает такое прочтение конкретного сообщения и чем эта поддержка отличается от его классификации. Выражение «чистое осознавание», описания исследований и предлагаемый критерий тоже включены в разбор."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "The Elephant and the Blind",
+      "url": "https://mpe-project.info/wp-content/uploads/2024/02/Metzinger_MIT_Press_2024.pdf#page=27",
+      "locator_ru": "MIT Press, 2024. Введение, с. xxvi; страница 27 PDF.",
+      "locator_en": "MIT Press, 2024. Introduction, p. xxvi; PDF page 27.",
+      "note_ru": "Книга на сайте Minimal Phenomenal Experience Project. На указанной странице также поясняется предварительный характер группировки сообщений.",
+      "note_en": "The book hosted by the Minimal Phenomenal Experience Project. The same page also explains the provisional grouping of reports.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8877.PNG",
+      "sha256": "401b0bf92340a6c10c3c3bdaeb3af3e0dce8249d25a1f1e5d31991bea856e626"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8878.PNG",
+      "sha256": "924395323da716954a62b0eb6e1fa6f8572b3c0e4a76ed7d262ff443f7cd81a0"
+    }
+  ]
+}

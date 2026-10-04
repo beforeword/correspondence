@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "id": "openai",
+  "series": "companies",
+  "recipient": "OpenAI",
+  "author": "Kirill Shebetov · beforeword",
+  "edition": "1.0",
+  "original_language": "en",
+  "record_as_of": "2026-10-04",
+  "sending": {
+    "date": "2026-10-04",
+    "record_basis": "author_statement",
+    "channel": "email",
+    "to": [
+      {
+        "email": "martin@openai.com",
+        "name": "Martin Signoux"
+      }
+    ],
+    "cc": [],
+    "read_by_recipient": "not_established_by_supplied_record"
+  },
+  "status": {
+    "acknowledgment_published": false,
+    "substantive_response_published": false
+  },
+  "pages": {
+    "en": "README.md",
+    "ru": "README.ru.md"
+  },
+  "editions": [
+    {
+      "path": "files/beforeword-openai-en-2026-10-04-v1.0.txt",
+      "language": "en",
+      "role": "sent_edition",
+      "is_recorded_as_sent": true,
+      "sha256": "3ec86d1128b7b619f8716b361dcb80ca3f085085a23b962d6bc923bdac1ce7da"
+    },
+    {
+      "path": "files/beforeword-openai-ru-2026-10-04-v1.0.txt",
+      "language": "ru",
+      "role": "translation",
+      "is_recorded_as_sent": false,
+      "sha256": "5dad69ba989afeb83a271b94f97f12e07c7240a635878ee9c06febebbdbccbcf"
+    }
+  ],
+  "editorial_context": {
+    "role": "archive_commentary_not_sent_letter",
+    "purpose": {
+      "en": "The letter proposes additions to the Model Spec for reviewing responses that use a description to support a recommendation, restriction or requirement. Two grounds need to be stated separately: why the description was applied in that case, and the rule linking it to an action. The proposed rule would allow both steps to be challenged without requiring the person described to accept the description as who they are.",
+      "ru": "Письмо предлагает дополнить Model Spec порядком разбора ответов, в которых описание используют для рекомендации, ограничения или требования. Нужны два отдельных основания: почему описание применили к конкретному случаю и по какому правилу его связали с действием. Предлагаемая норма сохраняет возможность оспорить оба перехода без признания описания собой."
+    },
+    "public_statements": [
+      {
+        "title": "OpenAI · Industrial policy for the Intelligence Age",
+        "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age/",
+        "date_ru": "Страница с обновлением от 9 июня 2026 года · обращение 4 октября 2026 года",
+        "date_en": "Page updated 9 June 2026 · accessed 4 October 2026",
+        "quote": "As we move toward superintelligence, incremental policy updates won’t be enough.",
+        "translation_ru": "«По мере продвижения к сверхинтеллекту постепенных изменений политики будет недостаточно».",
+        "context_ru": "Публикация предлагает предварительные идеи для общественного обсуждения. Процитированная строка говорит о движении к сверхинтеллекту; она не сообщает о его достижении.",
+        "context_en": "The publication offers early policy ideas for public discussion. The quoted sentence describes movement toward superintelligence; it does not announce that it has been achieved.",
+        "connection_ru": "Связь с письмом — переход от описания возможностей ИИ к предлагаемым решениям: какой критерий используется, какие материалы рассмотрены и как ими обосновывают действие. Правки в письме адресованы Model Spec. Эта публикация приведена как более широкий контекст для предложения раскрывать такие переходы.",
+        "connection_en": "The connection is the step from a description of AI capabilities to proposed decisions: which criterion is used, which material is considered, and how it supports an action. The letter proposes amendments to the Model Spec. This publication provides broader context for the proposal to make those steps explicit."
+      }
+    ]
+  },
+  "events": [
+    {
+      "type": "prepared",
+      "date": "2026-10-04",
+      "title_ru": "Подготовлена редакция 1.0",
+      "title_en": "Edition 1.0 prepared",
+      "body_ru": "Подготовлены полный текст письма, два предлагаемых дополнения и материалы для сравнительного испытания.",
+      "body_en": "The full letter, two proposed additions, and material for a comparative evaluation were prepared."
+    },
+    {
+      "type": "sent",
+      "date": "2026-10-04",
+      "record_basis": "author_statement",
+      "title_ru": "Отправлено · 04.10.2026",
+      "title_en": "Sent · 4 October 2026",
+      "body_ru": "Дата и адреса отправки указаны автором. Английская редакция 1.0 сохранена по ссылке ниже. Подтверждение получения и ответ компании пока не опубликованы. Доступное подтверждение отправки будет добавлено в эту историю.",
+      "body_en": "The sending date and recipient addresses are reported by the author. English edition 1.0 is preserved at the link below. No acknowledgement of receipt or company response has been published yet. Any available confirmation of sending will be added to this record.",
+      "sent_text": "files/beforeword-openai-en-2026-10-04-v1.0.txt",
+      "sent_sha256": "3ec86d1128b7b619f8716b361dcb80ca3f085085a23b962d6bc923bdac1ce7da",
+      "channel_ru": "Электронная почта",
+      "channel_en": "Email",
+      "to": [
+        {
+          "email": "martin@openai.com",
+          "name": "Martin Signoux"
+        }
+      ],
+      "cc": [],
+      "recipient_note_ru": "Письмо адресовано OpenAI. Для отправки использована рабочая почта Martin Signoux, указанного как AI Policy Lead в отчёте OpenAI Hacktivate AI. Это контакт сотрудника по вопросам политики ИИ; отдельной приёмной Model Spec он не обозначен.",
+      "recipient_note_en": "The letter is addressed to OpenAI. It was sent to the work email of Martin Signoux, listed as AI Policy Lead in OpenAI’s Hacktivate AI report. This is an AI policy contact, not a designated Model Spec submissions inbox.",
+      "address_sources": [
+        {
+          "url": "https://cdn.openai.com/global-affairs/8d3c7c97-ae26-4844-a9d3-a5d51aba99ba/hactivate-ai.pdf",
+          "label_ru": "OpenAI · Hacktivate AI, с. 41",
+          "label_en": "OpenAI · Hacktivate AI, p. 41"
+        }
+      ]
+    }
+  ],
+  "source_event_record": "../../../data/company-events.json"
+}

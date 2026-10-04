@@ -1,0 +1,22 @@
+beforeword · English transcription from author-supplied screenshots
+Subject: Causal models: the grounds for interpreting evidence
+
+Dear Professor Pearl,
+
+In Section 3.1 of “Causal inference in statistics: An overview”, you write: “In interpreting this equation one should think of a physical process”.
+
+Your discussion explicitly distinguishes the algebraic equation from its causal interpretation.
+
+Please indicate whether your framework represents the grounds for reading an experimental report as support for a causal assumption, or treats that justification as separate from the causal model.
+
+beforeword proposes keeping three elements separately inspectable: the written record, its selected interpretation, and the grounds offered for accepting that interpretation. This examination includes the records offered as supporting evidence.
+
+The phrase “physical process” also remains part of the writing under examination. Written accounts of experiments, expert judgments, and any proposed criterion receive the same treatment. This letter is included.
+
+The reading procedure and worked examples:
+https://beforeword.xyz/model/en/
+
+Kirill Shebetov
+beforeword
+
++

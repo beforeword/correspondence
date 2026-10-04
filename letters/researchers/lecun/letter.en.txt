@@ -1,0 +1,22 @@
+beforeword · English transcription from author-supplied screenshots
+Subject: V-JEPA: the criterion for progress toward understanding
+
+Dear Professor LeCun,
+
+Meta’s article of 15 February 2024 quotes you calling V-JEPA “a step toward a more grounded understanding of the world”.
+
+Please indicate the criterion connecting the reported action-recognition results to that formulation, and the grounds for applying it here.
+
+beforeword proposes keeping three elements separately inspectable: what is written, what it is read as showing, and the grounds offered for accepting that reading.
+
+Here, the proposed examination concerns both the written account of task performance and its interpretation as progress toward understanding.
+
+The criterion and its written justification remain further formulations whose interpretation and grounds can also be examined. The same examination applies to human self-descriptions and to this letter.
+
+The reading procedure and worked examples:
+https://beforeword.xyz/model/en/
+
+Kirill Shebetov
+beforeword
+
++

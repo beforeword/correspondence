@@ -1,0 +1,197 @@
+{
+  "schema_version": 2,
+  "updated": "2026-10-04",
+  "letters": [
+    {
+      "id": "openai",
+      "recipient": "OpenAI",
+      "edition": "1.0",
+      "prepared": "2026-10-04",
+      "events": [
+        {
+          "type": "prepared",
+          "date": "2026-10-04",
+          "title_ru": "Подготовлена редакция 1.0",
+          "title_en": "Edition 1.0 prepared",
+          "body_ru": "Подготовлены полный текст письма, два предлагаемых дополнения и материалы для сравнительного испытания.",
+          "body_en": "The full letter, two proposed additions, and material for a comparative evaluation were prepared."
+        },
+        {
+          "type": "sent",
+          "date": "2026-10-04",
+          "record_basis": "author_statement",
+          "title_ru": "Отправлено · 04.10.2026",
+          "title_en": "Sent · 4 October 2026",
+          "body_ru": "Дата и адреса отправки указаны автором. Английская редакция 1.0 сохранена по ссылке ниже. Подтверждение получения и ответ компании пока не опубликованы. Доступное подтверждение отправки будет добавлено в эту историю.",
+          "body_en": "The sending date and recipient addresses are reported by the author. English edition 1.0 is preserved at the link below. No acknowledgement of receipt or company response has been published yet. Any available confirmation of sending will be added to this record.",
+          "sent_text": "/letters/openai/files/beforeword-openai-en-2026-10-04-v1.0.txt",
+          "sent_sha256": "3ec86d1128b7b619f8716b361dcb80ca3f085085a23b962d6bc923bdac1ce7da",
+          "channel_ru": "Электронная почта",
+          "channel_en": "Email",
+          "to": [
+            {
+              "email": "martin@openai.com",
+              "name": "Martin Signoux"
+            }
+          ],
+          "cc": [],
+          "recipient_note_ru": "Письмо адресовано OpenAI. Для отправки использована рабочая почта Martin Signoux, указанного как AI Policy Lead в отчёте OpenAI Hacktivate AI. Это контакт сотрудника по вопросам политики ИИ; отдельной приёмной Model Spec он не обозначен.",
+          "recipient_note_en": "The letter is addressed to OpenAI. It was sent to the work email of Martin Signoux, listed as AI Policy Lead in OpenAI’s Hacktivate AI report. This is an AI policy contact, not a designated Model Spec submissions inbox.",
+          "address_sources": [
+            {
+              "url": "https://cdn.openai.com/global-affairs/8d3c7c97-ae26-4844-a9d3-a5d51aba99ba/hactivate-ai.pdf",
+              "label_ru": "OpenAI · Hacktivate AI, с. 41",
+              "label_en": "OpenAI · Hacktivate AI, p. 41"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anthropic",
+      "recipient": "Anthropic",
+      "edition": "1.0",
+      "prepared": "2026-10-04",
+      "events": [
+        {
+          "type": "prepared",
+          "date": "2026-10-04",
+          "title_ru": "Подготовлена редакция 1.0",
+          "title_en": "Edition 1.0 prepared",
+          "body_ru": "Подготовлены полный текст письма, два предлагаемых дополнения и материалы для сравнительного испытания.",
+          "body_en": "The full letter, two proposed additions, and material for a comparative evaluation were prepared."
+        },
+        {
+          "type": "sent",
+          "date": "2026-10-04",
+          "record_basis": "author_statement",
+          "title_ru": "Отправлено · 04.10.2026",
+          "title_en": "Sent · 4 October 2026",
+          "body_ru": "Дата и адреса отправки указаны автором. Английская редакция 1.0 сохранена по ссылке ниже. Подтверждение получения и ответ компании пока не опубликованы. Доступное подтверждение отправки будет добавлено в эту историю.",
+          "body_en": "The sending date and recipient addresses are reported by the author. English edition 1.0 is preserved at the link below. No acknowledgement of receipt or company response has been published yet. Any available confirmation of sending will be added to this record.",
+          "sent_text": "/letters/anthropic/files/beforeword-anthropic-en-2026-10-04-v1.0.txt",
+          "sent_sha256": "91811fafda0c150917a5e744f5d65b912fcaed44798813c4f03f99a608fb461f",
+          "channel_ru": "Электронная почта",
+          "channel_en": "Email",
+          "to": [
+            {
+              "email": "transparency@anthropic.com"
+            }
+          ],
+          "cc": [
+            {
+              "email": "jonk@anthropic.com",
+              "name": "Jonathan Kutasov"
+            }
+          ],
+          "recipient_note_ru": "Письмо адресовано Anthropic. Основной адрес опубликован в Transparency Hub для обратной связи по ответственному развитию ИИ. Копия направлена исследователю Jonathan Kutasov, чей адрес указан для переписки по исследованию Teaching Claude Why об обучении Claude на конституции и оценке поведения модели.",
+          "recipient_note_en": "The letter is addressed to Anthropic. The main address is published in its Transparency Hub for feedback on responsible AI development. A copy was sent to Jonathan Kutasov, the correspondence contact for Teaching Claude Why, a study of constitutional training and model behavior evaluation.",
+          "address_sources": [
+            {
+              "url": "https://www.anthropic.com/transparency/voluntary-commitments",
+              "label_ru": "Anthropic · Transparency Hub · обновлено 23.07.2026",
+              "label_en": "Anthropic · Transparency Hub · updated 23 July 2026"
+            },
+            {
+              "url": "https://alignment.anthropic.com/2026/teaching-claude-why/",
+              "label_ru": "Anthropic · Teaching Claude Why · 08.05.2026",
+              "label_en": "Anthropic · Teaching Claude Why · 8 May 2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "xai",
+      "recipient": "xAI",
+      "edition": "1.0",
+      "prepared": "2026-10-04",
+      "events": [
+        {
+          "type": "prepared",
+          "date": "2026-10-04",
+          "title_ru": "Подготовлена редакция 1.0",
+          "title_en": "Edition 1.0 prepared",
+          "body_ru": "Подготовлены полный текст письма, два предлагаемых дополнения и материалы для сравнительного испытания. Выбран адрес для отправки.",
+          "body_en": "The full letter, two proposed additions, and material for a comparative evaluation were prepared. A recipient address was selected.",
+          "channel_ru": "Электронная почта",
+          "channel_en": "Email",
+          "to": [
+            {
+              "email": "safety@x.ai"
+            }
+          ],
+          "cc": [],
+          "recipient_note_ru": "Письмо адресовано xAI, разработчику Grok. Для отправки выбран safety@x.ai — адрес, опубликованный на страницах Contact и Safety для обращений по безопасности моделей и продуктов. Предложение касается оснований описаний и решений, а также возможности их оспорить.",
+          "recipient_note_en": "The letter is addressed to xAI, the developer of Grok. The selected address, safety@x.ai, is published on its Contact and Safety pages for concerns about model and product safety. The proposal concerns the grounds for descriptions and decisions, and the opportunity to challenge them.",
+          "address_sources": [
+            {
+              "url": "https://x.ai/contact",
+              "label_ru": "xAI · Contact · обращение 04.10.2026",
+              "label_en": "xAI · Contact · accessed 4 October 2026"
+            },
+            {
+              "url": "https://x.ai/safety",
+              "label_ru": "xAI · Safety · обращение 04.10.2026",
+              "label_en": "xAI · Safety · accessed 4 October 2026"
+            }
+          ]
+        },
+        {
+          "type": "sent",
+          "date": "2026-10-04",
+          "title_ru": "Отправлено · 04.10.2026",
+          "title_en": "Sent · 4 October 2026",
+          "body_ru": "Автор сообщил об отправке письма на safety@x.ai 4 октября 2026 года. Английская редакция 1.0 сохранена по ссылке ниже.",
+          "body_en": "The author reported sending the letter to safety@x.ai on 4 October 2026. English edition 1.0 is preserved at the link below.",
+          "channel_ru": "Электронная почта",
+          "channel_en": "Email",
+          "to": [
+            {
+              "email": "safety@x.ai"
+            }
+          ],
+          "cc": [],
+          "recipient_note_ru": "Письмо адресовано xAI, разработчику Grok, и отправлено на safety@x.ai — адрес, опубликованный на страницах Contact и Safety для обращений по безопасности моделей и продуктов. Предложение касается оснований описаний и решений, а также возможности их оспорить.",
+          "recipient_note_en": "The letter is addressed to xAI, the developer of Grok, and was sent to safety@x.ai. The address is published on its Contact and Safety pages for concerns about model and product safety. The proposal concerns the grounds for descriptions and decisions, and the opportunity to challenge them.",
+          "address_sources": [
+            {
+              "url": "https://x.ai/contact",
+              "label_ru": "xAI · Contact · обращение 04.10.2026",
+              "label_en": "xAI · Contact · accessed 4 October 2026"
+            },
+            {
+              "url": "https://x.ai/safety",
+              "label_ru": "xAI · Safety · обращение 04.10.2026",
+              "label_en": "xAI · Safety · accessed 4 October 2026"
+            }
+          ],
+          "record_basis": "author_statement",
+          "sent_text": "/letters/xai/files/beforeword-xai-en-2026-10-04-v1.0.txt",
+          "sent_sha256": "64eaafff95aab3535ecdfb793262289e9c69ab2cf38f56757d975ebb7e080027"
+        },
+        {
+          "id": "xai-safety-message-2026-10-04",
+          "type": "acknowledged",
+          "date": "2026-10-04",
+          "date_basis": "author_submission_date",
+          "record_basis": "author_supplied_screenshot",
+          "language": "en",
+          "interpretation": "administrative_acknowledgment",
+          "substantive_response": false,
+          "title_ru": "Служебное сообщение xAI Safety Team",
+          "title_en": "Acknowledgment from the xAI Safety Team",
+          "body_ru": "Сообщение с подписью xAI Safety Team описывает порядок обработки обращений. Ответа на предложения открытого письма в нём нет.",
+          "body_en": "A message signed by the xAI Safety Team outlines how submissions are handled. It does not address the proposals in the open letter.",
+          "source_note_ru": "Источник: скриншот, предоставленный автором 4 октября 2026 года. Текст сообщения перенесён со скриншота; экранные переносы строк объединены в абзацы.",
+          "source_note_en": "Source: a screenshot supplied by the author on 4 October 2026. The message was transcribed from the screenshot; screen line breaks have been joined into paragraphs.",
+          "commentary_ru": "Указание на обработку для оценки сформулировано условно: оно относится к обращениям о потенциальной эксплуатации моделей ИИ. Из этого сообщения не следует, что предложения открытого письма уже изучены или приняты к рассмотрению.",
+          "commentary_en": "The statement about processing for evaluation is conditional and applies to submissions about the potential exploitation of AI models. This message does not establish that the proposals in the open letter have been reviewed or accepted for consideration.",
+          "evidence": "/letters/xai/correspondence/xai-safety-message-2026-10-04.png",
+          "text_file": "/letters/xai/correspondence/xai-safety-message-en-2026-10-04.txt",
+          "translation_file_ru": "/letters/xai/correspondence/xai-safety-message-ru-2026-10-04.txt"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "shanahan",
+  "series": "researchers",
+  "recipient": "Murray Shanahan",
+  "recipient_ru": "Мюррей Шанахан",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "ai",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": "2026-10-02",
+    "time_display": "00:28",
+    "timezone": null,
+    "calendar_date_shown": true,
+    "visible_weekday_label": null,
+    "to": [
+      "m.shanahan@imperial.ac.uk"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": false,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "The human side of your account of LLM belief",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Murray,",
+        "Your clarification of “Talking About Large Language Models” places the discussion of belief in the use of words, with attention to the capabilities and behaviour of the system being described.",
+        "beforeword proposes a requirement for explanations that rely on such attributions: keep the recorded words, the interpretation added to them, and the grounds for that interpretation separately inspectable. This includes human self-descriptions.",
+        "For “I believe this”, a human source may warrant a different interpretation from an AI source. The proposed requirement is to make the grounds for that difference explicit wherever the attribution supports a further conclusion.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Please consider a brief critical response on the human case—particularly whether this requirement clarifies belief-attribution or asks for more justification than ordinary usage requires.",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "d292c1e1270b7a8d3aa0bf3d13ba61b09fdb48d0b0d54dc26aac9dc2776d0827",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Ваше объяснение убеждений языковых моделей: как оно относится к человеку",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый Мюррей,",
+        "В разъяснении к «Talking About Large Language Models» вы связываете разговор об убеждениях с употреблением слов, учитывая возможности и поведение описываемой системы.",
+        "Для объяснений, которые опираются на такие приписывания, beforeword предлагает следующее требование: записанные слова, добавленное к ним толкование и основания этого толкования должны быть доступны для раздельного рассмотрения. Это относится и к человеческим самоописаниям.",
+        "Фразу «Я в это верю» могут обоснованно истолковывать по-разному в зависимости от того, исходит ли она от человека или от ИИ. Предлагается явно указывать основания такого различия всякий раз, когда приписывание убеждения служит опорой для дальнейшего вывода.",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Пожалуйста, дайте краткую критическую оценку применимости этого требования к человеку: помогает ли оно прояснить приписывание убеждений или требует большего обоснования, чем обычное употребление слов?",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "38a4804bbe9fbb3b7d214510f9a108292962daf73cc166738ddd875218c257f3",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What supports different readings of “I believe this” from a human and an AI?",
+      "ru": "Почему «Я в это верю» читают по-разному, когда источником назван человек или ИИ?"
+    },
+    "purpose": {
+      "en": [
+        "The letter starts from the clarification of “Talking About Large Language Models”, which connects discussion of belief to the use of words and to the capabilities and behavior of the system being described.",
+        "The same question arises when a person writes “I believe this”: identical words may be read differently depending on their stated source. If that difference supports a conclusion about a person or a model, the proposal asks for the reason to be made explicit.",
+        "The letter asks whether applying this requirement to people helps clarify talk of belief, or demands more justification than ordinary language use requires."
+      ],
+      "ru": [
+        "Письмо отталкивается от разъяснения к «Talking About Large Language Models», в котором разговор об убеждениях связан с употреблением слов, возможностями и поведением описываемой системы.",
+        "Тот же вопрос возникает с человеческим самоописанием «Я в это верю»: одинаковые слова могут читать по-разному в зависимости от того, кто назван их источником. Если на этом различии строится вывод о человеке или модели, предлагается показать, чем оно обосновано.",
+        "Письмо просит оценить применимость такого требования к человеку: помогает ли раздельное рассмотрение слов, толкования и обоснования прояснить разговор об убеждениях или требует большего, чем обычное употребление языка."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "Still “Talking About Large Language Models”: Some Clarifications",
+      "url": "https://arxiv.org/html/2412.10291v1",
+      "locator_ru": "Версия 1, декабрь 2024 года. Абзацы об употреблении слова belief и последовательности систем с разными возможностями.",
+      "locator_en": "Version 1, December 2024. The discussion of the word belief and the hierarchy of systems with different capabilities.",
+      "note_ru": "Уточнение Шанахана, на которое ссылается письмо; это отдельный текст к исходной статье.",
+      "note_en": "Shanahan’s clarification discussed in the letter, published separately from the original article.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8859.PNG",
+      "sha256": "9708368ab03bc4ccfe3133fe956efdaba18b2b96a34bbbabfc42f07e102742e4"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8860.PNG",
+      "sha256": "8510a5fce6abe453bda9c62d0559a8ae8806d4d423640b17c030962b8501da61"
+    }
+  ]
+}

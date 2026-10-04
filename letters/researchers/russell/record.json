@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "id": "russell",
+  "series": "researchers",
+  "recipient": "Stuart Russell",
+  "recipient_ru": "Стюарт Рассел",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "ai",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "jp@humancompatible.ai"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": true,
+    "forwarding_requested": true,
+    "forwarding": "not_established_in_published_materials",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "Отправлено с просьбой передать письмо Стюарту Расселу. По предоставленным скриншотам нельзя установить, что он его получил.",
+      "en": "Sent with a request to forward the letter to Stuart Russell. The supplied screenshots do not establish that he received it."
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "For Stuart Russell: text as evidence of human preferences",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Please forward the note below to Professor Stuart Russell.",
+        "Dear Professor Russell,",
+        "In “Provably Beneficial Artificial Intelligence”, you discuss using “written and filmed information about humans doing things” to build models of human values.",
+        "Your discussion already acknowledges that behavior does not always reflect values.",
+        "Please indicate a criterion for reading a particular written passage as evidence of a human preference, and the grounds for applying that criterion.",
+        "beforeword proposes keeping three elements separately inspectable: the written record, what it is read as showing, and the grounds offered for accepting that reading.",
+        "“Human preference” remains part of the writing under examination. The criterion, its written justification, human self-descriptions, and this letter receive the same treatment.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "61fb974e31257fda06973c3230fb04891cea9591afbecddaa878d14f32cfae62",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Для Стюарта Рассела: текст как свидетельство человеческих предпочтений",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Пожалуйста, перешлите приведённое ниже обращение профессору Стюарту Расселу.",
+        "Уважаемый профессор Рассел,",
+        "В работе «Доказуемо полезный искусственный интеллект» вы обсуждаете использование «письменной информации и видеоматериалов о действиях людей» для построения моделей человеческих ценностей.",
+        "В своём изложении вы уже отмечаете, что поведение не всегда отражает ценности.",
+        "Пожалуйста, укажите критерий, по которому конкретный фрагмент текста читают как свидетельство предпочтения человека, и основания для применения этого критерия.",
+        "beforeword предлагает отдельно рассматривать три элемента: письменную запись, то, что она показывает в выбранном прочтении, и основания, предложенные для принятия этого прочтения.",
+        "Выражение «человеческое предпочтение» остаётся частью разбираемого текста. Такой же разбор распространяется на критерий, его письменное обоснование, самоописания людей и это письмо.",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "f2c65eebd1e9f73ff65426b6f9dc31ad65e2c9d341a6e29430489ae00781e043",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What supports reading a passage as evidence of a human preference?",
+      "ru": "Почему фрагмент текста читают как свидетельство того, что человек предпочитает?"
+    },
+    "purpose": {
+      "en": [
+        "The letter concerns the use of written and filmed material to build models of human values. It asks what happens when a particular passage is read as evidence of what a person prefers.",
+        "Readers should be able to see which words were recorded, what preference was inferred from them, and what supports that inference.",
+        "The letter asks for a criterion for that reading and a reason for applying it to the chosen passage. The account of the criterion remains open to examination too."
+      ],
+      "ru": [
+        "Письмо касается обсуждаемого использования текстов и видеоматериалов для построения моделей человеческих ценностей. Вопрос возникает, когда конкретный фрагмент текста читают как свидетельство того, что человек предпочитает.",
+        "Читателю важно видеть, какие слова записаны, какое предпочтение из них вывели и чем объяснили этот переход.",
+        "Письмо просит указать критерий такого прочтения и объяснить, почему его применяют к выбранному фрагменту. Само описание критерия также остаётся открытым для разбора."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "Stuart Russell — Provably Beneficial Artificial Intelligence",
+      "url": "https://aima.cs.berkeley.edu/~russell/papers/russell-bbvabook17-pbai.pdf#page=11",
+      "locator_ru": "Practical Considerations, стр. 11 PDF, первый абзац.",
+      "locator_en": "Practical Considerations, PDF page 11, opening paragraph.",
+      "note_ru": "PDF на университетском сайте автора; содержит фрагмент о письменных и видеоматериалах для моделирования ценностей.",
+      "note_en": "PDF hosted on the author’s university website; includes the passage about written and filmed material for modeling values.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8881.PNG",
+      "sha256": "72fe32fb8831d08be87ce35d9ef1ac91ff699e18bc5be787a13501f06fe599b4"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8882.PNG",
+      "sha256": "5634f769174c66655149422d496c9792284e2025e7c4ae9618d177d4446c2878"
+    }
+  ]
+}

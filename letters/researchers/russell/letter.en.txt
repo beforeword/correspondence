@@ -1,0 +1,24 @@
+beforeword · English transcription from author-supplied screenshots
+Subject: For Stuart Russell: text as evidence of human preferences
+
+Please forward the note below to Professor Stuart Russell.
+
+Dear Professor Russell,
+
+In “Provably Beneficial Artificial Intelligence”, you discuss using “written and filmed information about humans doing things” to build models of human values.
+
+Your discussion already acknowledges that behavior does not always reflect values.
+
+Please indicate a criterion for reading a particular written passage as evidence of a human preference, and the grounds for applying that criterion.
+
+beforeword proposes keeping three elements separately inspectable: the written record, what it is read as showing, and the grounds offered for accepting that reading.
+
+“Human preference” remains part of the writing under examination. The criterion, its written justification, human self-descriptions, and this letter receive the same treatment.
+
+The reading procedure and worked examples:
+https://beforeword.xyz/model/en/
+
+Kirill Shebetov
+beforeword
+
++

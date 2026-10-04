@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "brandom",
+  "series": "researchers",
+  "recipient": "Robert Brandom",
+  "recipient_ru": "Роберт Брэндом",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "language",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "rbrandom@pitt.edu"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": false,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "A sentence in this letter: grounds for attributing commitment",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Professor Brandom,",
+        "In “Conceptual Content and Discursive Practice”, you write that, in asserting a claim, “one is committing oneself to justify the claim if suitably challenged”.",
+        "Your account locates that responsibility within social practice.",
+        "Please indicate, using one sentence from this letter, what would warrant attributing an assertional commitment to its writer.",
+        "beforeword proposes keeping three elements separately inspectable: the written sentence, the commitment attributed on reading it, and the grounds offered for that attribution.",
+        "The terms “commitment” and “entitlement” remain part of the writing under examination. Descriptions of social practices, any criterion offered and its written justification, human self-descriptions, and this letter receive the same treatment.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "922b03bba75e401d077e2b29301d84bd049939f2595c23303ddf55719ae1a78e",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Предложение из этого письма: на каком основании автору приписывают обязательство",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый профессор Брэндом,",
+        "В работе «Понятийное содержание и дискурсивная практика» вы пишете, что, выдвигая утверждение, «человек берёт на себя обязательство обосновать его, если оно будет надлежащим образом оспорено».",
+        "В вашем изложении эта ответственность связана с социальной практикой.",
+        "Пожалуйста, покажите на примере одного предложения из этого письма, что позволило бы приписать его автору обязательство, возникающее при выдвижении утверждения.",
+        "beforeword предлагает отдельно рассматривать три элемента: написанное предложение, обязательство, приписанное при его прочтении, и основания, предложенные для такого приписывания.",
+        "Термины «обязательство» и «право на утверждение» остаются частью разбираемого текста. Такой же разбор распространяется на описания социальных практик, любой предложенный критерий и его письменное обоснование, самоописания людей и это письмо.",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "b2aafa6575a5f6dfed630b5fbc2cb5138c86d6936179b037333bb359205aa9fd",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What supports treating a writer as committed to justifying a claim?",
+      "ru": "На каком основании автору приписывают обязательство обосновать написанное?"
+    },
+    "purpose": {
+      "en": [
+        "The letter examines a quoted account in which making an assertion commits its author to justify it if suitably challenged.",
+        "For readers, the issue is what commitment others infer from their words and why that particular reading should apply to them.",
+        "The letter asks for one of its own sentences to be used to show what warrants attributing such a commitment to its writer. Accounts of the social practices offered to explain that attribution are also open to examination."
+      ],
+      "ru": [
+        "Письмо разбирает приведённое в нём положение: выдвигая утверждение, человек берёт на себя обязательство обосновать его, если оно надлежащим образом оспорено.",
+        "Для читателя вопрос в том, какое обязательство выводят из его слов и почему именно такое прочтение должно к нему применяться.",
+        "Письмо предлагает взять одно из собственных предложений и показать, что позволяет приписать автору такое обязательство. Описания социальных практик, которыми это объясняют, также остаются предметом разбора."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "Robert Brandom — Conceptual Content and Discursive Practice",
+      "url": "https://sites.pitt.edu/~rbrandom/Texts/Conceptual_Content_and_Discursive_Practi.pdf#page=21",
+      "locator_ru": "Стр. 21 PDF, обсуждение обязанности обосновывать утверждение при оспаривании.",
+      "locator_en": "PDF page 21, discussion of the responsibility to justify a claim when challenged.",
+      "note_ru": "Авторская копия на сайте University of Pittsburgh; цитируемая формулировка присутствует в тексте.",
+      "note_en": "Author-hosted copy at the University of Pittsburgh; the quoted wording appears in the text.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8885.PNG",
+      "sha256": "8c474e59d72dd669df02a9e0f2148ca90cc17fb59a2596ba2942924db6cb9d68"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8886.PNG",
+      "sha256": "cfb1d7038113f21f268f4ffe9947c6a4d6d9d332e2f2f26b5e95bf3cb2262264"
+    }
+  ]
+}

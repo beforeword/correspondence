@@ -1,0 +1,11 @@
+Thank you for contacting xAI's Safety Team.
+
+Submittals of AI model safety issues:
+-- If you have submitted to this email address an issue that is directed to the potential exploitation of frontier AI models (ex., jailbreaking or prompt-injection issues), then it is being processed for our evaluation.  We will reach out to you if further information is needed.
+
+For issues other than AI model safety issues:
+-- Please submit security vulnerabilities to xAI's Bug Bounty Program on HackerOne: https://hackerone.com/x?type=team.
+-- Please submit child safety issues to childsafety@x.ai.
+
+Thanks!
+xAI Safety Team

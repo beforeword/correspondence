@@ -1,0 +1,20 @@
+beforeword · English transcription from author-supplied screenshots
+Subject: Changing the words, changing the explanation
+
+Dear Professor Deutsch,
+
+In the glossary to The Beginning of Infinity, you characterize a good explanation by how hard it is to vary “while still accounting for what it purports to account for”.
+
+Please indicate, using one short example, what distinguishes a change of wording from a change of explanation when applying your criterion, and the grounds for that distinction.
+
+beforeword proposes keeping three elements separately inspectable: the written formulations, the explanatory content attributed to them, and the grounds offered for that attribution.
+
+The terms “explanation” and “knowledge” remain part of the writing under examination. The criterion’s own wording and interpretation, descriptions of criticism and experiment, human self-descriptions, and this letter receive the same treatment.
+
+The reading procedure and worked examples:
+https://beforeword.xyz/model/en/
+
+Kirill Shebetov
+beforeword
+
++

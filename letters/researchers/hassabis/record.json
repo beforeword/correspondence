@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "hassabis",
+  "series": "researchers",
+  "recipient": "Demis Hassabis",
+  "recipient_ru": "Демис Хассабис",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "ai",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "dmi-editor@google.com"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": false,
+    "forwarding_requested": true,
+    "forwarding": "not_established_in_published_materials",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "Отправлено на dmi-editor@google.com с просьбой переслать Демису Хассабису. Пересылка адресату по этим скриншотам не установлена.",
+      "en": "Sent to dmi-editor@google.com with a request to forward it to Demis Hassabis. The screenshots do not establish that it was forwarded."
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "For Demis Hassabis: from readable output to an assessment of reasoning",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Please forward this research note to Demis Hassabis.",
+        "Dear Dr Hassabis,",
+        "Your essay of 14 July 2026 on a frontier AI standards body includes “generating human-readable output tokens to understand model reasoning”.",
+        "Please indicate the criterion for treating that output as an account of model reasoning during an assessment, and the grounds for applying it.",
+        "Your proposal places this practice within broader scientific evaluations. beforeword proposes examining the interpretive step within it: keeping the written output, what it is read as showing, and the grounds offered for accepting that reading separately inspectable.",
+        "The framework’s own formulations belong in this examination. The criterion and its written justification remain further writing, subject to the same scrutiny. This applies equally to human self-descriptions and to this letter.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "204deb5f4f33529cc2551e923a665b7859f3855a824667df5138f39a56b4de60",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Для Демиса Хассабиса: от читаемого текста модели к оценке её рассуждений",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Пожалуйста, перешлите эту исследовательскую заметку Демису Хассабису.",
+        "Уважаемый доктор Хассабис,",
+        "В Вашем эссе от 14 июля 2026 года об организации, разрабатывающей стандарты для передового ИИ, есть формулировка «генерировать читаемые человеком выходные токены, чтобы понять рассуждения модели».",
+        "Пожалуйста, укажите критерий, по которому этот сгенерированный текст при оценке модели рассматривается как описание её рассуждений, и основания для его применения.",
+        "В Вашем предложении эта практика входит в более широкий круг научных оценок. beforeword предлагает разобрать связанный с ней шаг интерпретации: сохранять возможность отдельно рассматривать сгенерированный текст, то, что он показывает согласно выбранному прочтению, и доводы в пользу принятия такого прочтения.",
+        "Собственные формулировки этого подхода тоже входят в предмет разбора. Критерий и его письменное обоснование остаются дополнительными записями, подлежащими тому же рассмотрению. Это в равной мере относится к тому, как люди описывают себя, и к этому письму.",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "dab2afaaffd56106ad185e1f9c4562c0700d8cc3964e70f9f3e3239d083c99d3",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What justifies reading model output as an account of its reasoning?",
+      "ru": "На каком основании текст модели читают как описание её рассуждений?"
+    },
+    "purpose": {
+      "en": [
+        "The letter responds to a quoted proposal to generate text that people can read in order to understand a model’s reasoning.",
+        "For someone reading an AI assessment, it matters why the generated text is treated as an account of the model’s reasoning and what supports that reading.",
+        "The letter asks for the criterion behind that step and the reasons for applying it. It proposes examining the generated text, its interpretation, and its justification separately, including the assessment framework’s own wording."
+      ],
+      "ru": [
+        "Поводом стало цитируемое предложение генерировать читаемый человеком текст, чтобы с его помощью изучать рассуждения модели.",
+        "Читателю оценки ИИ важно видеть, почему полученный текст рассматривается как описание рассуждений модели и чем обосновано такое прочтение.",
+        "Письмо просит уточнить критерий этого перехода и причины его применения. Предлагается отдельно разбирать полученный текст, его интерпретацию и обоснование, включая формулировки самой процедуры оценки."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "A Framework for Frontier AI and the Dawning of a New Age",
+      "url": "https://demishassabis.substack.com/p/a-framework-for-frontier-ai-and-the-dawning-of-a-new-age",
+      "locator_ru": "14 июля 2026 года. Раздел A Framework for a Frontier AI Standards Body, абзац о научных оценках моделей.",
+      "locator_en": "14 July 2026. A Framework for a Frontier AI Standards Body, the paragraph on scientific model assessments.",
+      "note_ru": "Эссе в Substack Хассабиса содержит обсуждаемую формулировку о читаемых выходных токенах.",
+      "note_en": "Hassabis’s Substack essay contains the discussed wording about human-readable output tokens.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8871.PNG",
+      "sha256": "892d5d492cd5acd6e9ded752c3e26a6297720b592bbfed92fe168e5aaec05e50"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8872.PNG",
+      "sha256": "accd15e39d08073e5072e415b078f956c9b99ebb64584bd3f142437ddaba0c90"
+    }
+  ]
+}

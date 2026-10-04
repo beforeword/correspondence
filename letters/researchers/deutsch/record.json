@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "deutsch",
+  "series": "researchers",
+  "recipient": "David Deutsch",
+  "recipient_ru": "Дэвид Дойч",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "evidence",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "david.deutsch@physics.ox.ac.uk"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": true,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "Changing the words, changing the explanation",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Professor Deutsch,",
+        "In the glossary to The Beginning of Infinity, you characterize a good explanation by how hard it is to vary “while still accounting for what it purports to account for”.",
+        "Please indicate, using one short example, what distinguishes a change of wording from a change of explanation when applying your criterion, and the grounds for that distinction.",
+        "beforeword proposes keeping three elements separately inspectable: the written formulations, the explanatory content attributed to them, and the grounds offered for that attribution.",
+        "The terms “explanation” and “knowledge” remain part of the writing under examination. The criterion’s own wording and interpretation, descriptions of criticism and experiment, human self-descriptions, and this letter receive the same treatment.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "390a3a1d1c3f4df7f391cd7772a01b9e0fe3ba25559e557ea78a6e2dcf77b49a",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Изменение слов, изменение объяснения",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый профессор Дойч,",
+        "В глоссарии к книге «Начало бесконечности» вы характеризуете хорошее объяснение тем, насколько трудно его изменить, «продолжая при этом объяснять то, что оно призвано объяснять».",
+        "Пожалуйста, покажите на одном коротком примере, чем при применении вашего критерия изменение формулировки отличается от изменения объяснения и на чём основано это различие.",
+        "beforeword предлагает отдельно рассматривать три элемента: написанные формулировки, приписываемое им объяснительное содержание и основания, предложенные для такого приписывания.",
+        "Термины «объяснение» и «знание» остаются частью разбираемого текста. Такой же разбор распространяется на формулировку и толкование самого критерия, описания критики и эксперимента, самоописания людей и это письмо.",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "bb95b64b798b54d8452c832dbd4f10d9aa3115e3eb8a43340181d71bd3d6d567",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What distinguishes changing the words from changing the explanation?",
+      "ru": "Чем изменение слов отличается от изменения объяснения?"
+    },
+    "purpose": {
+      "en": [
+        "The letter responds to a quoted criterion for a good explanation: it is hard to vary while still accounting for what it purports to explain. It asks how that criterion distinguishes a change in wording from a change in the explanation.",
+        "Readers comparing two formulations need to see what supports saying that the explanation has stayed the same or has changed.",
+        "The letter asks for one short example showing and justifying that distinction. The wording and interpretation of the criterion itself remain open to examination."
+      ],
+      "ru": [
+        "Поводом стал приведённый в письме критерий хорошего объяснения: его трудно изменить так, чтобы оно продолжало объяснять то, что призвано объяснять. Письмо спрашивает, как при таком критерии различить изменение слов и изменение объяснения.",
+        "Когда перед читателем две формулировки, важно показать, что позволяет считать объяснение прежним или изменившимся.",
+        "Письмо просит показать и обосновать это различие на одном коротком примере. Формулировка и толкование самого критерия тоже остаются открытыми для разбора."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "David Deutsch — The Beginning of Infinity: Glossary",
+      "url": "https://www.thebeginningofinfinity.com/book/glossary/",
+      "locator_ru": "Статья глоссария Good/bad explanation.",
+      "locator_en": "Glossary entry: Good/bad explanation.",
+      "note_ru": "Глоссарий на сайте книги, с указанием авторских прав Дэвида Дойча; содержит обсуждаемый критерий.",
+      "note_en": "Glossary on the book’s website, carrying David Deutsch’s copyright notice; includes the criterion discussed.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8889.PNG",
+      "sha256": "352cd193a570e2ec660207b53dea841e757fb458c6945c55e6db65941d29aa16"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8890.PNG",
+      "sha256": "4992dcad09c9709f781a9e3128fb88294964af74b8d9e44f3f92fe6b8e7f1d15"
+    }
+  ]
+}

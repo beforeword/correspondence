@@ -1,0 +1,24 @@
+beforeword · English transcription from author-supplied screenshots
+Subject: Pattern memory: the grounds for reading Figure 4F
+
+Dear Professor Levin,
+
+In Part Two of “Mind Everywhere” (2026), with David B. Resnik, the section on mental representation includes “a planarian tissue that stores a bioelectrical pattern memory”.
+
+The proposed reading retains your emphasis on experimental utility and your qualification that mental representation need not involve subjective experience.
+
+For the reset reported in Figure 4F of Durant et al. (2017), please indicate one supporting claim and explain how it supports interpreting the bioelectrical state as a stored representation of the anatomy to be rebuilt.
+
+beforeword proposes keeping the written report, the proposed memory attribution, and the grounds offered for that attribution separately inspectable.
+
+A written explanation adds another formulation. Its interpretation and its role as support also enter the examination; calling it a “criterion” or “explanation” leaves that role to be shown.
+
+The same examination includes written descriptions of measurements and controls, human self-descriptions, the wording of beforeword’s own procedure, and this letter—including its terms “memory”, “representation”, “writing” and “reading”.
+
+The reading procedure and worked examples:
+https://beforeword.xyz/model/en/
+
+Kirill Shebetov
+beforeword
+
++

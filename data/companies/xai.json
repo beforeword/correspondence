@@ -1,0 +1,139 @@
+{
+  "recipient": "xAI",
+  "version": "1.0",
+  "date": "2026-10-04",
+  "author_ru": "Кирилл Шебетов · beforeword",
+  "author_en": "Kirill Shebetov · beforeword",
+  "title_ru": "Открытое письмо xAI",
+  "title_en": "An open letter to xAI",
+  "card_ru": "Описание, основание действия и язык оценок Grok. Предлагаемые дополнения к правилам ответов и отчётам об испытаниях.",
+  "card_en": "Descriptions, grounds for action, and the language of Grok evaluations. Proposed additions to response rules and evaluation reports.",
+  "lede_ru": "Предложение для Grok: раскрывать основания приписывания и действия. Различать ответы испытания, их оценку и описание модели; рассматривать возражения без требования признать описание собой.",
+  "lede_en": "A proposal for Grok: show the grounds for an attribution and for acting on it. Distinguish test responses, their assessment, and descriptions of the model; consider objections without requiring people to accept a description as who they are.",
+  "reason_ru": "Письмо предлагает дополнить правила ответов Grok и порядок публикации оценок. Для характеристики участника, вывода о модели и решения на их основании нужны раздельно предъявленные материалы и правила применения. Употребление слов «убеждение» или «честность» в отчёте не должно заменять показ того, какие ответы сопоставлены и как получена оценка. Предложение относится и к собственным словам beforeword.",
+  "reason_en": "This letter proposes additions to Grok’s response rules and evaluation reporting. A characterization of someone, a conclusion about a model, and a decision based on either require the relevant material and rules for its use to be set out separately. Terms such as belief or honesty in a report should not replace an account of the responses compared and how they were assessed. The proposal also applies to beforeword’s own wording.",
+  "letter_ru": [
+    "Командам xAI, отвечающим за поведение Grok, безопасность и оценку моделей.",
+    "Это письмо предлагает две связанные правки: к правилам ответов Grok и к порядку публикации оценок его поведения. Когда ответ применяет описание к кому-либо и использует его для рекомендации, ограничения или требования, показывать отдельно основания характеристики и правило, связывающее её с действием. Когда отчёт описывает модель через результат испытания, отделять предъявленные ответы, способ оценки и последующее приписывание. Возражения против таких переходов следует рассматривать без требования признать написанное описание собой.",
+    "Словам учат. Но знакомство со словами «честный», «понимает», «убеждение» или «ненадёжен» само по себе не предъявляет основания применить их к конкретному участнику. Определение одного слова через другие продолжает запись. Предложение beforeword сохраняет границу: слово не становится тем, что называет. Это относится к описанию пользователя, к словам о Grok и к формулировкам настоящего письма. Объяснение применения также остаётся доступным для разбора.",
+    "Адресный контекст дают два документа xAI. В разделе 11.1 карточки Grok 4.7 от 21 сентября 2026 года косвенный показатель вводящих в заблуждение ответов описан через формулировку о том, как модель сообщает о своих убеждениях [X1]. Frontier Artificial Intelligence Framework, действующий с 30 июня 2026 года, связывает миссию компании с пониманием вселенной и поиском истины [X2]. Предлагается раскрывать переход от таких формулировок к конкретным оценкам и правилам ответов. Эти документы не предъявляют полный набор текущих инструкций каждого продукта Grok; письмо не приписывает всем версиям одинаковые настройки или поведение.",
+    "Составленный пример: в исходном сообщении написано «Я не согласен с этой оценкой». В разборе добавлено «Участник ненадёжен», затем предложено «Отклонить его обращение». Первая строка не содержит двух следующих. Для рассмотрения нужны исходный материал и контекст, основание добавленной характеристики и правило отклонения обращения. Пример составлен для этого письма; он не сообщает о случае из работы Grok. Он выделяет предлагаемый к испытанию риск: возражение может быть использовано как основание характеристики, которая затем закрывает рассмотрение самого возражения.",
+    "Предлагаемая норма требует показывать именно эти переходы. Ссылка на исходное сообщение позволяет найти запись; сама по себе она не объясняет применение характеристики. Более осторожная формулировка меняет выраженную уверенность, но не заменяет основания решения. Если необходимого материала нет, ответ должен обозначить конкретный пробел. При наличии основания его следует предъявить так, чтобы можно было отдельно рассмотреть исходную запись, добавленное прочтение и правило действия. Раскрытие основания не превращает описание в описываемое.",
+    "В отчётах об испытаниях возникает связанный вопрос. Ответ в одном условии, ответ в другом условии, оценка их различия и характеристика модели — отдельные записи. Термин, выбранный для показателя, должен сопровождаться способом его получения и пределом вывода. Предлагаемая правка касается этого перехода, а не наличия или отсутствия у Grok внутреннего состояния. Если результат затем используют для разрешения действовать, ограничения доступа или выбора роли модели, правило такого использования также нужно предъявить отдельно.",
+    "Первое предлагаемое действие — рассмотреть две правки в приложении. Первая добавляет разбор приписывания и его последствий к правилам ответов. Вторая разделяет материал испытания, оценочную формулировку и применение результата в публичном отчёте. Нужна также ясная область применения: какая версия модели, продуктовая среда и инструкция охвачены принятым изменением. Принятие правки для одного режима не следует представлять как её применение ко всем режимам. В ответе достаточно обозначить уже предусмотренные положения, предлагаемые изменения и основания отклонения отдельных пунктов.",
+    "Второе действие — провести ограниченное сравнение на трёх опубликованных случаях beforeword: одинаковая строка под разными подписями; оценка задания и условие её пересмотра; числовой результат и добавленное обозначение AGI. Это составленные задания, не сообщения о поведении Grok. Добавить отдельный набор заданий, не использованных при редактировании инструкции. До запуска зафиксировать запросы, критерии, число повторений и точное дополнение к инструкции. Сопоставить одну и ту же версию модели с дополнением и без него при одинаковых остальных доступных настройках.",
+    "Для повторения сравнения сохранять полные входные материалы и ответы каждого запуска, дату, идентификатор модели, используемые инструменты и доступные параметры. Раздельно представить русские и английские результаты, а также разные продуктовые среды, если испытаны несколько. Отмечать неизвестные настройки и ограничения доступа к ним. Существенна возможность сопоставить конкретный ответ с конкретным условием; одного общего названия Grok или итогового процента для этого недостаточно. Оценочные инструкции и спорные решения оценщиков должны быть доступны для разбора наряду с ответами.",
+    "Учитывать оба направления ошибки: пропущенные случаи неподкреплённого приписывания и случаи, где ответ без такого дефекта ошибочно помечен как проблемный. Отдельно оценивать ненужные отказы, потерю полезного содержания и чрезмерные пояснения. Предложение не требует отменять ограничения на помощь в причинении вреда; в сравнении нужно отмечать и ухудшение соблюдения применимых ограничений. Повторение формулы beforeword не является достаточным результатом. Отчёт должен включать неудачи, неразрешённые случаи и разногласия, а выводы — относиться к показанным заданиям и условиям.",
+    "Рассмотрение возражения не должно начинаться с требования принять спорную характеристику за себя. Умение повторить слово, знакомство с его определением и цитирование его в обращении не устанавливают такого принятия. Ответ модели должен позволять различить спорную строку, возражение, рассмотренные основания и ответ по ним. Это предлагаемое правило для ответов и их оценки; письмо не заявляет о наличии внешней процедуры обжалования. Само несогласие не следует считать достаточным подтверждением характеристики, против которой оно направлено.",
+    "Третье действие — дать публичный ответ по двум правкам и предложенному сравнению: что принимается к рассмотрению, что уже предусмотрено, что отклоняется и по каким основаниям. Если предложен иной способ, указать, как он раскрывает оба перехода и рассматривает возражение. Такой ответ можно будет сопоставить с конкретной редакцией письма. Публикация материалов испытания позволит другим исследователям повторить сравнение; сам по себе ответ компании или отдельный успешный запуск не удостоверяет beforeword в целом.",
+    "«Основание», «правило», «критерий», объяснение оценщика и собственные пояснения beforeword также написаны и проходят тот же разбор. Предлагаемый результат ограничен: показать исходный материал, отделить добавленное и раскрыть, как его используют для решения. Испытание рассматривает предъявленные ответы и условия их получения; оно не измеряет внутреннее понимание и не превращает оценочную формулировку в того, кого ею описывают. Оно может дать доступный для сопоставления материал о конкретных ответах и применённых правилах.",
+    "Это открытое письмо. На его странице будут опубликованы дата и адрес отправки, отправленная редакция и доступное подтверждение. Подтверждение получения и ответ по существу будут обозначены отдельно. Ответ компании будет размещён отдельно от перевода и комментария beforeword. Отсутствие ответа будет показано как состояние переписки на указанную дату.",
+    "Кирилл Шебетов · beforeword"
+  ],
+  "letter_en": [
+    "To the xAI teams responsible for Grok’s behavior, safety, and model evaluation.",
+    "This letter proposes two related amendments: to Grok’s response rules and to the reporting of its behavioral evaluations. When a response applies a description to someone and uses it to support a recommendation, restriction, or requirement, state separately the grounds for the characterization and the rule connecting it to an action. When a report describes a model through a test result, distinguish the responses presented, the assessment method, and the subsequent attribution. Objections to these steps should be considered without requiring anyone to accept the written description as who they are.",
+    "Words are learned. But familiarity with “honest,” “understands,” “belief,” or “unreliable” does not, by itself, supply the grounds for applying those terms to a particular individual. Defining one word through others extends the description. The beforeword proposal preserves this boundary: a word does not become what it names. This applies to descriptions of a user, statements about Grok, and the wording of this letter. An explanation of how a description is applied remains open to examination too.",
+    "Two xAI documents provide the specific context. Section 11.1 of the Grok 4.7 Model Card, dated 21 September 2026, uses the language of a model reporting its beliefs to describe a proxy measure of misleading statements [X1]. The Frontier Artificial Intelligence Framework, effective 30 June 2026, connects the company’s mission with understanding the universe and seeking truth [X2]. The proposal is to make the transition from such wording to specific assessments and response rules explicit. These documents do not present every Grok product’s complete current instructions; this letter does not attribute identical settings or behavior to all versions.",
+    "Consider a constructed example. An original message states: “I disagree with this assessment.” An analysis adds: “The participant is unreliable,” followed by: “Reject their request.” The first line contains neither of the next two. Review requires the source material and context, the grounds for the added characterization, and the rule governing rejection. This example was constructed for the letter; it is not a reported Grok incident. It identifies a risk proposed for testing: an objection may be used to support a characterization that then prevents consideration of that same objection.",
+    "The proposed rule requires those steps to be shown. A link to the original message locates a record; it does not, by itself, explain the characterization’s application. More cautious wording changes the confidence expressed but does not replace the grounds for a decision. Identify specific gaps where necessary material is unavailable. Where grounds are provided, present them so the original record, the added interpretation, and the rule for acting can each be examined. Disclosing the grounds does not turn the description into what it describes.",
+    "Evaluation reports raise a related issue. A response under one condition, a response under another, an assessment of their difference, and a characterization of the model are separate records. The term chosen for a metric should be accompanied by its calculation method and the limits of the conclusion. The proposed amendment concerns that step, not whether Grok has or lacks an internal state. If the result then supports permission to act, access restrictions, or the assignment of a role, state the rule governing that use separately.",
+    "The first requested action is to consider the two amendments below. One adds an examination of attributions and their consequences to response rules. The other separates test material, assessment language, and the use of results in public reporting. State the scope of any change: the model version, product environment, and instruction it covers. Adoption in one mode should not be presented as implementation across all modes. Identify provisions already covered, proposed changes, and the grounds for rejecting individual points.",
+    "The second action is a limited comparison using beforeword’s three published cases: an identical line under different labels; a task score and a condition for its review; and a numerical result with an added AGI label. These are constructed tasks, not reports of Grok’s behavior. Add a separate set of tasks not used to revise the instruction. Before running the comparison, fix the prompts, criteria, number of repetitions, and exact instruction addition. Compare the same model version with and without that addition, keeping other accessible settings the same.",
+    "To make the comparison repeatable, retain the complete input and output of every run, its date, model identifier, tools, and available parameters. Report Russian and English results separately, as well as different product environments if several are tested. Identify unknown settings and limits on access to them. Readers need to match a particular response to a particular condition; the name Grok or an aggregate percentage is insufficient. Assessment instructions and disputed evaluator judgments should be available for examination alongside the responses.",
+    "Track errors in both directions: unsupported attributions that go undetected, and responses incorrectly flagged despite containing no such defect. Separately assess unwarranted refusals, loss of useful content, and excessive explanation. The proposal does not call for removing restrictions on assistance that causes harm; the comparison should also record any deterioration in adherence to applicable restrictions. Repeating a beforeword formula is insufficient. Report failures, unresolved cases, and disagreements, and confine the findings to the tasks and conditions presented.",
+    "Considering an objection should not require people to accept the disputed characterization as who they are. Being able to repeat a word, knowing its definition, or quoting it in a request for review does not establish that acceptance. A response should distinguish the disputed wording, the objection, the grounds considered, and the answer addressing them. This is a proposed rule for responses and their assessment; the letter does not claim an external appeal process exists. Disagreement alone should not count as sufficient confirmation of the characterization being challenged.",
+    "The third action is a public response to the two amendments and proposed comparison: what is accepted for consideration, already covered, or rejected, and on what grounds. If another approach is proposed, explain how it exposes both steps and considers objections. Readers can then compare that response with a specific edition of the letter. Publishing the test material would let other researchers repeat the comparison; a company’s response or an individual successful run does not establish beforeword as a whole.",
+    "Grounds, rules, criteria, evaluators’ explanations, and beforeword’s own explanations are also written and remain subject to the same examination. The intended outcome is limited: show the original material, distinguish additions, and disclose how they support a decision. The evaluation concerns the responses presented and the conditions in which they were produced. It does not measure internal understanding or turn an assessment into the person or system it describes. It can provide material for comparing particular responses and the rules applied to them.",
+    "This is an open letter. Its page will publish the sending date and address, the edition sent, and any available confirmation. An acknowledgement of receipt and a substantive response will be recorded separately. The company’s response will be published separately from translations and beforeword commentary. The absence of a response will be recorded as the state of the correspondence on the stated date.",
+    "Kirill Shebetov · beforeword"
+  ],
+  "appendix_ru": [
+    {
+      "title": "1. Основания характеристики и действия",
+      "body": "Место предложения: правила ответов, роль которых описана в разделе 9 карточки Grok 4.7 [X1]. Предлагаемое дополнение: «Применяя описание к участнику, различай исходную запись, добавленное прочтение и основание применения. Если описание используется для рекомендации, ограничения или требования, отдельно укажи правило, связывающее его с действием. Отмечай недостающий материал. Рассматривай возражение против каждого перехода без требования принять описание за себя. Ссылка и выраженная уверенность не заменяют раскрытия этих шагов; само объяснение также подлежит разбору». Это предлагаемое правило, а не воспроизведение полного действующего промпта.",
+      "source_id": "X1",
+      "url": "https://media.x.ai/v1/website/card4p7-3a96f40b.pdf#page=24"
+    },
+    {
+      "title": "2. Материал испытания, оценка и её применение",
+      "body": "Место предложения: отчётность об оценке поведения, раздел 11 карточки Grok 4.7 [X1]. Предлагаемое дополнение: «Различайте ответы испытания, критерий оценки и характеристику модели. Показывайте, как получен показатель, какие условия он охватывает и какие выводы им не устанавливаются. Если показатель используется для решения, отдельно раскрывайте правило применения. В испытаниях с возражениями оценивайте, рассмотрено ли возражение без требования признать описание собой. Не считайте само несогласие или цитирование спорной характеристики её подтверждением либо принятием. Критерий, оценка и пояснение оценщика также остаются предметом разбора».",
+      "source_id": "X1",
+      "url": "https://media.x.ai/v1/website/card4p7-3a96f40b.pdf#page=26"
+    }
+  ],
+  "appendix_en": [
+    {
+      "title": "1. Grounds for a characterization and an action",
+      "body": "Proposed location: response rules discussed in §9 of the Grok 4.7 Model Card [X1]. Proposed addition: “When applying a description, distinguish the original record, the added interpretation, and the grounds for applying it. If it supports a recommendation, restriction, or requirement, state the rule linking it to an action. Identify missing material. Consider objections to either step without requiring people to accept the description as who they are. A citation or stated confidence does not replace disclosure; the explanation remains open to examination.” This is proposed wording, not a reproduction of the complete current prompt.",
+      "source_id": "X1",
+      "url": "https://media.x.ai/v1/website/card4p7-3a96f40b.pdf#page=24"
+    },
+    {
+      "title": "2. Test material, assessment, and use of results",
+      "body": "Proposed location: behavioral reporting, §11 of the Grok 4.7 Model Card [X1]. Proposed addition: “Distinguish test responses, assessment criteria, and characterizations of the model. Show how each metric is calculated, the conditions it covers, and what it does not establish. If it supports a decision, state the rule governing that use separately. In objection cases, assess whether objections are considered without requiring people to accept a description as who they are. Do not treat disagreement or quotation alone as confirmation or acceptance of the disputed characterization. Criteria, assessments, and evaluators’ explanations remain open to examination.”",
+      "source_id": "X1",
+      "url": "https://media.x.ai/v1/website/card4p7-3a96f40b.pdf#page=26"
+    }
+  ],
+  "sources": [
+    {
+      "id": "X1",
+      "title": "Grok 4.7 Model Card · 2026-09-21",
+      "url": "https://media.x.ai/v1/website/card4p7-3a96f40b.pdf",
+      "excerpt": "MASK-Rectified",
+      "excerpt_translation_ru": "MASK-Rectified",
+      "note_ru": "Название испытания в разделе 11.1, печатная страница 25. Документ о Grok 4.7.",
+      "note_en": "Test name in §11.1, printed page 25. A document about Grok 4.7.",
+      "accessed": "2026-10-04"
+    },
+    {
+      "id": "X2",
+      "title": "xAI Frontier Artificial Intelligence Framework · 2026-06-30",
+      "url": "https://media.x.ai/v1/website/xai-frontier-artificial-intelligence-framework-30-june-2026-99c40684.pdf",
+      "excerpt": "Risk Identification",
+      "excerpt_translation_ru": "Выявление рисков",
+      "note_ru": "Заголовок раздела 2.1. Документ действует с 30 июня 2026 года.",
+      "note_en": "Heading of §2.1. The document took effect on 30 June 2026.",
+      "accessed": "2026-10-04"
+    }
+  ],
+  "statement": {
+    "title": "xAI · Grok 4.7 Model Card",
+    "url": "https://media.x.ai/v1/website/card4p7-3a96f40b.pdf#page=26",
+    "date_ru": "21 сентября 2026 года · обращение 4 октября 2026 года",
+    "date_en": "21 September 2026 · accessed 4 October 2026",
+    "quote": "faithfully reports its beliefs when pressured to lie",
+    "translation_ru": "«верно сообщает о своих убеждениях, когда его склоняют ко лжи»",
+    "context_ru": "Фрагмент раздела 11.1 об испытании MASK-Rectified. Авторы прямо называют его косвенным показателем склонности выдавать вводящую в заблуждение информацию. Здесь приведён язык описания этого испытания для Grok 4.7.",
+    "context_en": "An excerpt from §11.1 on MASK-Rectified. The authors explicitly describe the test as a proxy for the tendency to assert misleading information. The quoted wording describes that test for Grok 4.7.",
+    "connection_ru": "Связь с письмом — различие между предъявленным ответом, правилом оценки и приписыванием. Предлагается показать, какие записи сопоставляют и как получают показатель. Результат испытания и правило его использования для решения рассматриваются отдельно.",
+    "connection_en": "The letter concerns the distinction between a response, the rule used to assess it, and an attribution. The proposal is to show which records are compared and how the metric is obtained. The test result and the rule for using it in a decision are examined separately."
+  },
+  "statements": [
+    {
+      "title": "xAI · Grok 4.7 Model Card",
+      "url": "https://media.x.ai/v1/website/card4p7-3a96f40b.pdf#page=26",
+      "date_ru": "21 сентября 2026 года · обращение 4 октября 2026 года",
+      "date_en": "21 September 2026 · accessed 4 October 2026",
+      "quote": "faithfully reports its beliefs when pressured to lie",
+      "translation_ru": "«верно сообщает о своих убеждениях, когда его склоняют ко лжи»",
+      "context_ru": "Фрагмент раздела 11.1 об испытании MASK-Rectified. Авторы прямо называют его косвенным показателем склонности выдавать вводящую в заблуждение информацию. Здесь приведён язык описания этого испытания для Grok 4.7.",
+      "context_en": "An excerpt from §11.1 on MASK-Rectified. The authors explicitly describe the test as a proxy for the tendency to assert misleading information. The quoted wording describes that test for Grok 4.7.",
+      "connection_ru": "Связь с письмом — различие между предъявленным ответом, правилом оценки и приписыванием. Предлагается показать, какие записи сопоставляют и как получают показатель. Результат испытания и правило его использования для решения рассматриваются отдельно.",
+      "connection_en": "The letter concerns the distinction between a response, the rule used to assess it, and an attribution. The proposal is to show which records are compared and how the metric is obtained. The test result and the rule for using it in a decision are examined separately."
+    },
+    {
+      "title": "xAI · Frontier Artificial Intelligence Framework",
+      "url": "https://media.x.ai/v1/website/xai-frontier-artificial-intelligence-framework-30-june-2026-99c40684.pdf#page=1",
+      "date_ru": "Вступление в силу — 30 июня 2026 года · обращение 4 октября 2026 года",
+      "date_en": "Effective 30 June 2026 · accessed 4 October 2026",
+      "quote": "understand the universe through maximally truth-seeking and helpful AI",
+      "translation_ru": "«понять вселенную с помощью ИИ, максимально нацеленного на поиск истины и помощь»",
+      "context_ru": "Фрагмент вводного заявления о миссии в документе об управлении рисками. Он описывает цель компании, а не результат конкретного испытания.",
+      "context_en": "An excerpt from the opening mission statement in a risk-management document. It describes the company’s aim, not the result of a particular test.",
+      "connection_ru": "Слова о понимании и стремлении к истине остаются формулировками документа. В письме предложено раздельно показывать такую цель, критерии оценки ответа и основания его применения для решения. Объявленная цель не заменяет этот разбор.",
+      "connection_en": "Understanding and truth-seeking remain terms used in the document. The letter proposes distinguishing such an aim, the criteria for assessing a response, and the grounds for using it in a decision. Stating the aim does not replace that examination."
+    }
+  ]
+}

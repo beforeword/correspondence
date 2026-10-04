@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "id": "zaremba",
+  "series": "researchers",
+  "recipient": "Wojciech Zaremba",
+  "recipient_ru": "Войцех Заремба",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "experience",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "woj@openai.com"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": false,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "Your account of perception: the grounds for accepting it",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Wojciech,",
+        "On your website, under “Understanding Yourself”, you write: “Your brain constructs reality from bits of incoming information.”",
+        "Please indicate a criterion for accepting this formulation as an explanation of perception, and the grounds for applying that criterion.",
+        "beforeword proposes keeping three elements separately inspectable: the written formulation, the interpretation assigned to it, and the grounds offered for accepting that interpretation.",
+        "The terms “brain” and “reality” remain part of the wording under examination. The criterion, its written justification, human self-descriptions, and this letter receive the same treatment.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "8d2994ed357d9f0ac93e4356ddad5fc69f6bc8580164e7c07d363b23b2d0f1b1",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Ваше объяснение восприятия: на каком основании его принимают",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый Войцех,",
+        "На вашем сайте, в разделе «Понимание себя», вы пишете: «Ваш мозг конструирует реальность из фрагментов поступающей информации».",
+        "Пожалуйста, укажите критерий, по которому эту формулировку можно принять как объяснение восприятия, и основания для применения этого критерия.",
+        "beforeword предлагает отдельно рассматривать три элемента: написанную формулировку, приданное ей толкование и основания, предложенные для принятия этого толкования.",
+        "Термины «мозг» и «реальность» остаются частью разбираемой формулировки. Такой же разбор распространяется на критерий, его письменное обоснование, самоописания людей и это письмо.",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "6c730f31e908dc8dac8cfe718da3d4e0e075c69f9bc505bd886c8ff5c1d1a20a",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What supports reading a sentence as an explanation of perception?",
+      "ru": "Почему эту фразу принимают как объяснение восприятия?"
+    },
+    "purpose": {
+      "en": [
+        "The letter responds to a quoted statement that the brain constructs reality from bits of incoming information. It asks what supports accepting that sentence as an explanation of perception.",
+        "The description addresses the reader directly: “Your brain”. This makes it important to show what warrants reading those words as an explanation of the reader’s own perception.",
+        "The letter asks for a criterion for accepting the explanation and a reason for applying it here. The criterion and its written justification remain open to examination."
+      ],
+      "ru": [
+        "Поводом стала приведённая в письме формулировка о том, что мозг конструирует реальность из фрагментов поступающей информации. Вопрос в том, на каком основании эту фразу принимают как объяснение восприятия.",
+        "Описание обращено прямо к читателю: «Ваш мозг…». Поэтому важно показать, что позволяет читать эти слова как объяснение собственного восприятия.",
+        "Письмо просит назвать критерий принятия такого объяснения и пояснить, почему он применим здесь. Сам критерий и его письменное обоснование также остаются предметом разбора."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "Wojciech Zaremba — Understanding Yourself",
+      "url": "https://www.woj.world/",
+      "locator_ru": "Life Philosophy → Understanding Yourself, абзац о конструировании реальности мозгом.",
+      "locator_en": "Life Philosophy → Understanding Yourself, paragraph on the brain constructing reality.",
+      "note_ru": "Личный сайт автора; обсуждаемая фраза находится в этом разделе.",
+      "note_en": "The author’s personal website; the sentence discussed appears in this section.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8879.PNG",
+      "sha256": "5880fe12b0dc811ba0ed0e8d4f4a236f10aa7bb38c7d12dcc431bf17c4db4e2a"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8880.PNG",
+      "sha256": "b443326dff1fe736a1a12f1a011c8418b04afbb592b4257f5f813364c33ba9f4"
+    }
+  ]
+}

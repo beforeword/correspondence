@@ -1,0 +1,26 @@
+beforeword · English transcription from author-supplied screenshots
+Subject: For Ilya Sutskever: from prediction to understanding
+
+Please forward this research note to Ilya Sutskever.
+
+Dear Ilya,
+
+The published transcript of your March 2023 conversation with Dwarkesh Patel includes:
+
+“Predicting the next token well means that you understand the underlying reality that led to the creation of that token.”
+
+beforeword reads “means that” here as a proposed inference from predictive success to an attribution of understanding.
+
+The proposal is to keep the reported prediction result, its selected interpretation, and the grounds offered for that interpretation separately inspectable. Reading a result as understanding does not, by itself, establish the attribution.
+
+The explanation of how the training text was produced also remains a written account whose interpretation and stated grounds require examination. This applies equally to human self-descriptions and to this letter.
+
+The reading procedure and worked examples:
+https://beforeword.xyz/model/en/
+
+Please indicate the criterion for accepting predictive success as grounds for attributing understanding, and the grounds for applying it in this argument.
+
+Kirill Shebetov
+beforeword
+
++

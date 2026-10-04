@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "id": "bostrom",
+  "series": "researchers",
+  "recipient": "Nick Bostrom",
+  "recipient_ru": "Ник Бостром",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "experience",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "nick@nickbostrom.com"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": false,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "Virtual nociceptors: grounds for attributing pain",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Dr Bostrom,",
+        "In “Propositions Concerning Digital Minds and Society” (v. 1.21), with Carl Shulman, the virtual-animal example includes the phrase “behavioral criteria used to identify animal pain”.",
+        "The reading proposed here preserves the draft’s tentative status and its qualification that behavioural criteria may be met while key internal features are missing.",
+        "For the described avoidance of virtual nociceptor activation, please indicate one supporting premise and explain how it would support an attribution of experienced pain to the system.",
+        "beforeword proposes keeping the written scenario, the proposed experiential interpretation, and the supporting premises separately inspectable.",
+        "A written explanation adds another formulation. Its interpretation and its proposed evidential role also enter the examination; the label “evidence” leaves that role to be shown.",
+        "The same examination includes descriptions of algorithms and animal behaviour, human self-reports, stated criteria, the wording of beforeword’s own procedure, and this letter—including its terms “pain”, “evidence”, “writing” and “reading”.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "3148085d769c98a6d9d3c7b5ca4c349a00964b4905a58802c65d7072b1e8a81d",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Виртуальные ноцицепторы: основания для приписывания боли",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый доктор Бостром,",
+        "В работе «Propositions Concerning Digital Minds and Society» (версия 1.21), написанной совместно с Карлом Шульманом, пример с виртуальным животным включает формулировку «поведенческие критерии, используемые для выявления боли у животных».",
+        "Предлагаемое здесь прочтение сохраняет предварительный статус текста и его оговорку: поведение может соответствовать критериям, даже если ключевые внутренние особенности отсутствуют.",
+        "В описанном сценарии система избегает активации виртуального ноцицептора. Пожалуйста, укажите одну предпосылку и объясните, как она могла бы поддержать приписывание системе переживаемой боли.",
+        "beforeword предлагает сохранять возможность отдельно рассматривать письменный сценарий, его предлагаемое толкование как описания переживания и предпосылки в поддержку этого толкования.",
+        "Письменное объяснение добавляет ещё одну формулировку. Её интерпретация и предполагаемая роль в качестве свидетельства тоже подлежат разбору; даже если назвать её «свидетельством», эту роль всё ещё нужно показать.",
+        "Тот же разбор относится к описаниям алгоритмов и поведения животных, сообщениям людей о себе, сформулированным критериям, формулировке собственной процедуры beforeword и этому письму, включая его термины «боль», «свидетельство», «написанное» и «чтение».",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "0fa6cefb75d76e416322b574a0348db6fe2909eb5b3a2291f9964edd546020c6",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What supports the move from described behavior to an attribution of experienced pain?",
+      "ru": "Что обосновывает переход от описания поведения к приписыванию переживаемой боли?"
+    },
+    "purpose": {
+      "en": [
+        "The letter takes up a virtual-animal example described in Bostrom and Shulman’s work. It focuses on the move from a described response by the virtual animal to a claim that the system experiences pain.",
+        "Readers need to distinguish the described behavior, its satisfaction of a chosen criterion, and the claim about experience. The connection between them should be open to examination.",
+        "The letter asks for one premise supporting that move and an explanation of its role. The same examination applies to the criterion itself, human self-reports, and the wording of the letter."
+      ],
+      "ru": [
+        "Письмо обращается к примеру виртуального животного из работы Бострома и Шульмана. В центре — переход от описанной реакции виртуального животного к утверждению, что система переживает боль.",
+        "Для читателя важно различать описанное поведение, его соответствие выбранному критерию и утверждение о переживании. Связь между ними должна быть доступна для рассмотрения.",
+        "Письмо просит назвать одну предпосылку, которая поддержала бы такой переход, и пояснить её роль. Тот же разбор распространяется на сам критерий, сообщения людей о себе и формулировки этого письма."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "Nick Bostrom & Carl Shulman — Propositions Concerning Digital Minds and Society, version 1.21",
+      "url": "https://nickbostrom.com/propositions.pdf#page=18",
+      "locator_ru": "Status of Existing AI Systems, с. 18: виртуальное животное и ноцицепторы.",
+      "locator_en": "Status of Existing AI Systems, p. 18: virtual animal and nociceptors.",
+      "note_ru": "Авторский PDF обозначен как версия 1.21 (2023), первый черновик — 2020; версия совпадает с указанной в письме.",
+      "note_en": "The author-hosted PDF is labeled version 1.21 (2023), first draft 2020; this matches the version named in the letter.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8899.PNG",
+      "sha256": "2d52c822daff11d0d3156b756d6de8ab25a9ba25ddd161141b9862c59bfcd3e6"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8900.PNG",
+      "sha256": "6a8ed55383d862fb1bcdd87b81b09d8cd029f7f9d05bcc39792150a562da310d"
+    }
+  ]
+}

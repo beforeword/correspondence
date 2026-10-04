@@ -1,0 +1,22 @@
+beforeword · English transcription from author-supplied screenshots
+Subject: Revising a sentence, correcting a thought
+
+Dear Professor Clark,
+
+In “Magic Words: How Language Augments Human Computation”, you write: “Our thoughts become determinate and public objects”.
+
+Your account gives linguistic formulations an active role in reshaping cognition.
+
+Please indicate, using one example of revising a written argument, what would warrant describing the revision as a correction of a thought.
+
+beforeword proposes keeping three elements separately inspectable: the written revision, its interpretation as correcting a thought, and the grounds offered for that interpretation.
+
+The terms “thought” and “correction” remain part of the writing under examination. Descriptions of cognitive processes, any proposed criterion and its justification, human self-descriptions, and this letter receive the same treatment.
+
+The reading procedure and worked examples:
+https://beforeword.xyz/model/en/
+
+Kirill Shebetov
+beforeword
+
++

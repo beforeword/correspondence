@@ -1,0 +1,22 @@
+beforeword · English transcription from author-supplied screenshots
+Subject: The same idea: the grounds for that attribution
+
+Dear Professor Pinker,
+
+In Chapter 1 of The Stuff of Thought, you describe how a new word “comes to evoke the same idea in the rest of a population”.
+
+Please indicate a criterion for reading two people’s written responses as evidence that a word evoked the same idea for both, and the grounds for applying that criterion.
+
+Your distinction between language and thought provides a starting point for this examination.
+
+beforeword proposes keeping three elements separately inspectable: the written responses, the attribution of a shared idea, and the grounds offered for accepting that attribution.
+
+The phrase “the same idea” remains part of the writing under examination. The criterion, its written justification, human self-descriptions, and this letter receive the same treatment.
+
+The reading procedure and worked examples:
+https://beforeword.xyz/model/en/
+
+Kirill Shebetov
+beforeword
+
++

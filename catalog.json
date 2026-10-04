@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "title": "beforeword correspondence",
+  "repository": "https://github.com/beforeword/correspondence",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "letter_count": 27,
+  "notes": {
+    "en": "Paths are relative to this file. Sent texts, translations and editorial context are separate. Statuses describe the available materials; missing information has not been inferred.",
+    "ru": "Пути указаны относительно этого файла. Отправленные тексты, переводы и пояснения разделены. Статусы описывают доступные материалы; пропуски не заполнены предположениями."
+  },
+  "letters": [
+    {
+      "id": "openai",
+      "series": "companies",
+      "pages": {
+        "en": "letters/companies/openai/README.md",
+        "ru": "letters/companies/openai/README.ru.md"
+      },
+      "record": "letters/companies/openai/record.json"
+    },
+    {
+      "id": "anthropic",
+      "series": "companies",
+      "pages": {
+        "en": "letters/companies/anthropic/README.md",
+        "ru": "letters/companies/anthropic/README.ru.md"
+      },
+      "record": "letters/companies/anthropic/record.json"
+    },
+    {
+      "id": "xai",
+      "series": "companies",
+      "pages": {
+        "en": "letters/companies/xai/README.md",
+        "ru": "letters/companies/xai/README.ru.md"
+      },
+      "record": "letters/companies/xai/record.json"
+    },
+    {
+      "id": "askell",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/askell/README.md",
+        "ru": "letters/researchers/askell/README.ru.md"
+      },
+      "record": "letters/researchers/askell/record.json"
+    },
+    {
+      "id": "olah",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/olah/README.md",
+        "ru": "letters/researchers/olah/README.ru.md"
+      },
+      "record": "letters/researchers/olah/record.json"
+    },
+    {
+      "id": "shanahan",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/shanahan/README.md",
+        "ru": "letters/researchers/shanahan/README.ru.md"
+      },
+      "record": "letters/researchers/shanahan/record.json"
+    },
+    {
+      "id": "chalmers",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/chalmers/README.md",
+        "ru": "letters/researchers/chalmers/README.ru.md"
+      },
+      "record": "letters/researchers/chalmers/record.json"
+    },
+    {
+      "id": "bengio",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/bengio/README.md",
+        "ru": "letters/researchers/bengio/README.ru.md"
+      },
+      "record": "letters/researchers/bengio/record.json"
+    },
+    {
+      "id": "hinton",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/hinton/README.md",
+        "ru": "letters/researchers/hinton/README.ru.md"
+      },
+      "record": "letters/researchers/hinton/record.json"
+    },
+    {
+      "id": "sutskever",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/sutskever/README.md",
+        "ru": "letters/researchers/sutskever/README.ru.md"
+      },
+      "record": "letters/researchers/sutskever/record.json"
+    },
+    {
+      "id": "lecun",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/lecun/README.md",
+        "ru": "letters/researchers/lecun/README.ru.md"
+      },
+      "record": "letters/researchers/lecun/record.json"
+    },
+    {
+      "id": "hassabis",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/hassabis/README.md",
+        "ru": "letters/researchers/hassabis/README.ru.md"
+      },
+      "record": "letters/researchers/hassabis/record.json"
+    },
+    {
+      "id": "pearl",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/pearl/README.md",
+        "ru": "letters/researchers/pearl/README.ru.md"
+      },
+      "record": "letters/researchers/pearl/record.json"
+    },
+    {
+      "id": "hofstadter",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/hofstadter/README.md",
+        "ru": "letters/researchers/hofstadter/README.ru.md"
+      },
+      "record": "letters/researchers/hofstadter/record.json"
+    },
+    {
+      "id": "metzinger",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/metzinger/README.md",
+        "ru": "letters/researchers/metzinger/README.ru.md"
+      },
+      "record": "letters/researchers/metzinger/record.json"
+    },
+    {
+      "id": "zaremba",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/zaremba/README.md",
+        "ru": "letters/researchers/zaremba/README.ru.md"
+      },
+      "record": "letters/researchers/zaremba/record.json"
+    },
+    {
+      "id": "russell",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/russell/README.md",
+        "ru": "letters/researchers/russell/README.ru.md"
+      },
+      "record": "letters/researchers/russell/record.json"
+    },
+    {
+      "id": "pinker",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/pinker/README.md",
+        "ru": "letters/researchers/pinker/README.ru.md"
+      },
+      "record": "letters/researchers/pinker/record.json"
+    },
+    {
+      "id": "brandom",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/brandom/README.md",
+        "ru": "letters/researchers/brandom/README.ru.md"
+      },
+      "record": "letters/researchers/brandom/record.json"
+    },
+    {
+      "id": "tomasello",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/tomasello/README.md",
+        "ru": "letters/researchers/tomasello/README.ru.md"
+      },
+      "record": "letters/researchers/tomasello/record.json"
+    },
+    {
+      "id": "deutsch",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/deutsch/README.md",
+        "ru": "letters/researchers/deutsch/README.ru.md"
+      },
+      "record": "letters/researchers/deutsch/record.json"
+    },
+    {
+      "id": "clark",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/clark/README.md",
+        "ru": "letters/researchers/clark/README.ru.md"
+      },
+      "record": "letters/researchers/clark/record.json"
+    },
+    {
+      "id": "sperber",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/sperber/README.md",
+        "ru": "letters/researchers/sperber/README.ru.md"
+      },
+      "record": "letters/researchers/sperber/record.json"
+    },
+    {
+      "id": "williamson",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/williamson/README.md",
+        "ru": "letters/researchers/williamson/README.ru.md"
+      },
+      "record": "letters/researchers/williamson/record.json"
+    },
+    {
+      "id": "levin",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/levin/README.md",
+        "ru": "letters/researchers/levin/README.ru.md"
+      },
+      "record": "letters/researchers/levin/record.json"
+    },
+    {
+      "id": "bostrom",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/bostrom/README.md",
+        "ru": "letters/researchers/bostrom/README.ru.md"
+      },
+      "record": "letters/researchers/bostrom/record.json"
+    },
+    {
+      "id": "bach",
+      "series": "researchers",
+      "pages": {
+        "en": "letters/researchers/bach/README.md",
+        "ru": "letters/researchers/bach/README.ru.md"
+      },
+      "record": "letters/researchers/bach/record.json"
+    }
+  ]
+}

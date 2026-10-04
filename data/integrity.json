@@ -1,0 +1,161 @@
+{
+  "schema_version": 1,
+  "note": "Baseline for preserved English wording and supplied archive files. A text revision must not silently replace a sent edition.",
+  "researcher_letters": {
+    "askell": {
+      "subject_en": "Same words, different source labels: a test for Claude’s honesty",
+      "body_sha256_utf8": "76be40b34524bd45569b37727e2a5e74acb1f63973d26fd6cceb58fc92b030cd"
+    },
+    "olah": {
+      "subject_en": "NLA explanations: evidence for each claim",
+      "body_sha256_utf8": "4f06396ca9119889754d7400fee53b2eb6537a3d17fd8214327cbc3cc89d0e1a"
+    },
+    "shanahan": {
+      "subject_en": "The human side of your account of LLM belief",
+      "body_sha256_utf8": "d292c1e1270b7a8d3aa0bf3d13ba61b09fdb48d0b0d54dc26aac9dc2776d0827"
+    },
+    "chalmers": {
+      "subject_en": "The meta-problem: from inscription to consciousness report",
+      "body_sha256_utf8": "85a53b3056c77a8ac78a683670149a83e638310181695bfa7ea02d95696322a2"
+    },
+    "bengio": {
+      "subject_en": "Scientist AI: the grounds for treating a record as an observation",
+      "body_sha256_utf8": "ab9dd8942906afbd8ed4c189e5d6dc7c4a4ed13b21364887a3b07d789160512c"
+    },
+    "hinton": {
+      "subject_en": "Your account of subjective experience: “the same thing”",
+      "body_sha256_utf8": "737485b13965343757a9c77f87c5a1577c52bd01357b615289d6817ab645d091"
+    },
+    "sutskever": {
+      "subject_en": "For Ilya Sutskever: from prediction to understanding",
+      "body_sha256_utf8": "4d6d45b57755d7a44587142994f794cf9434ec0827ff280a1e0213133cc016c8"
+    },
+    "lecun": {
+      "subject_en": "V-JEPA: the criterion for progress toward understanding",
+      "body_sha256_utf8": "7815aa4d35a6a211bdd0ec42bc1dfa634efd5b4052bcd5b3dd7376dc6db6dfb6"
+    },
+    "hassabis": {
+      "subject_en": "For Demis Hassabis: from readable output to an assessment of reasoning",
+      "body_sha256_utf8": "204deb5f4f33529cc2551e923a665b7859f3855a824667df5138f39a56b4de60"
+    },
+    "pearl": {
+      "subject_en": "Causal models: the grounds for interpreting evidence",
+      "body_sha256_utf8": "c713663407266037068b1d51e7e524622e7e3ea900004d7f671f9ca4338ae29f"
+    },
+    "hofstadter": {
+      "subject_en": "Your account of the self: from definition to attribution",
+      "body_sha256_utf8": "a4fe5af9c879b89ac6b741fd43a5a448fabee367759ea46f92bc57c8f375ddf9"
+    },
+    "metzinger": {
+      "subject_en": "Your study of awareness: the grounds for reading the reports",
+      "body_sha256_utf8": "54a51a008eb64a46c6c9319033d8a94642e052f63ccca12c1f66ca7c898d1d66"
+    },
+    "zaremba": {
+      "subject_en": "Your account of perception: the grounds for accepting it",
+      "body_sha256_utf8": "8d2994ed357d9f0ac93e4356ddad5fc69f6bc8580164e7c07d363b23b2d0f1b1"
+    },
+    "russell": {
+      "subject_en": "For Stuart Russell: text as evidence of human preferences",
+      "body_sha256_utf8": "61fb974e31257fda06973c3230fb04891cea9591afbecddaa878d14f32cfae62"
+    },
+    "pinker": {
+      "subject_en": "The same idea: the grounds for that attribution",
+      "body_sha256_utf8": "65d5148068701e206d327904f427601907d6389db6c6bb49a28a2aedde559356"
+    },
+    "brandom": {
+      "subject_en": "A sentence in this letter: grounds for attributing commitment",
+      "body_sha256_utf8": "922b03bba75e401d077e2b29301d84bd049939f2595c23303ddf55719ae1a78e"
+    },
+    "tomasello": {
+      "subject_en": "Common ground: the grounds for attributing mutual knowledge",
+      "body_sha256_utf8": "5eea0d65c00714583bb062de1bb43d781415da764d8ca6e195e3171440b7ab1c"
+    },
+    "deutsch": {
+      "subject_en": "Changing the words, changing the explanation",
+      "body_sha256_utf8": "390a3a1d1c3f4df7f391cd7772a01b9e0fe3ba25559e557ea78a6e2dcf77b49a"
+    },
+    "clark": {
+      "subject_en": "Revising a sentence, correcting a thought",
+      "body_sha256_utf8": "9d43bb8cc765f6c15e12619de26487f8233a2299b8b2da3bc56c09d63de4c67d"
+    },
+    "sperber": {
+      "subject_en": "Reading this letter: what the wording does not encode",
+      "body_sha256_utf8": "8faaca99f13ec5e26f0ea6df8b2c14964d95869fd2ca09f1f60b7e684bbd9530"
+    },
+    "williamson": {
+      "subject_en": "Knowledge as Evidence: one sentence, one supporting claim",
+      "body_sha256_utf8": "6936b4143a11ec9a3bfd570b07486ee17389f1175e78b58d53d91e2c305881f6"
+    },
+    "levin": {
+      "subject_en": "Pattern memory: the grounds for reading Figure 4F",
+      "body_sha256_utf8": "a0607f8e0c0a6b156c3bfcfda768fd877e0119de2a652fbc76c563f4ae416262"
+    },
+    "bostrom": {
+      "subject_en": "Virtual nociceptors: grounds for attributing pain",
+      "body_sha256_utf8": "3148085d769c98a6d9d3c7b5ca4c349a00964b4905a58802c65d7072b1e8a81d"
+    },
+    "bach": {
+      "subject_en": "Interpretive validation: one claim, one alternative",
+      "body_sha256_utf8": "c370e8e937ae1440d9f468ba237723e08e60afae575c6f4d40c7bbffbfb1c69e"
+    }
+  },
+  "files": {
+    "letters/companies/anthropic/files/beforeword-anthropic-en-2026-10-04-v1.0.txt": "91811fafda0c150917a5e744f5d65b912fcaed44798813c4f03f99a608fb461f",
+    "letters/companies/anthropic/files/beforeword-anthropic-ru-2026-10-04-v1.0.txt": "3ecf0e40d5dda56544d4cd10a06db70ce9c6d90840d8ed0538e58a5820f8aec4",
+    "letters/companies/openai/files/beforeword-openai-en-2026-10-04-v1.0.txt": "3ec86d1128b7b619f8716b361dcb80ca3f085085a23b962d6bc923bdac1ce7da",
+    "letters/companies/openai/files/beforeword-openai-ru-2026-10-04-v1.0.txt": "5dad69ba989afeb83a271b94f97f12e07c7240a635878ee9c06febebbdbccbcf",
+    "letters/companies/xai/files/beforeword-xai-en-2026-10-04-v1.0.txt": "64eaafff95aab3535ecdfb793262289e9c69ab2cf38f56757d975ebb7e080027",
+    "letters/companies/xai/files/beforeword-xai-ru-2026-10-04-v1.0.txt": "9098894ee03231eea31a6991b24d0c264637f9239d32c3a6d4cd416cd5ca0e60",
+    "letters/companies/xai/reply/xai-safety-message-2026-10-04.png": "1ba8cd73166456a9806e46ab1706673f6776ad89d31da1cf5a90c0a23cd7ec01",
+    "letters/companies/xai/reply/xai-safety-message-en-2026-10-04.txt": "306c1ed0b7f06aab670feeaa730f38e73eb994bdced3cc2dceec4418811f88d8",
+    "letters/companies/xai/reply/xai-safety-message-ru-2026-10-04.txt": "2054b6186561c4144f369f74f5ad1feafaec4ec3d15b7e31c62413fe46937c99",
+    "letters/researchers/askell/record/IMG_8855.PNG": "892b834d7ed98ce2dddc20f222aa71d7b5485c9eacaa1f67321c91b3cb480bd5",
+    "letters/researchers/askell/record/IMG_8856.PNG": "3ebfadf55355947f2f23331d5e52a7948818ff7aadcf587b43f43c8107b282dc",
+    "letters/researchers/bach/record/IMG_8901.PNG": "c6a4bacc7d757f636c790871b1d1379e99878921b278853dab6ced84c9499573",
+    "letters/researchers/bach/record/IMG_8902.PNG": "2dabb1c0246251119d492c7881579d21f2117c8cb47e85bc693fba1fcf738e03",
+    "letters/researchers/bengio/record/IMG_8863.PNG": "a7e1d45a62a8f3bcc3228de8daeeb664605aabba9a2dd3b074dfa77125781631",
+    "letters/researchers/bengio/record/IMG_8864.PNG": "5ef7f20d3c35f21e4db32bac70b2958d68e9ba54e3fe95a48b34585a126b5cad",
+    "letters/researchers/bostrom/record/IMG_8899.PNG": "2d52c822daff11d0d3156b756d6de8ab25a9ba25ddd161141b9862c59bfcd3e6",
+    "letters/researchers/bostrom/record/IMG_8900.PNG": "6a8ed55383d862fb1bcdd87b81b09d8cd029f7f9d05bcc39792150a562da310d",
+    "letters/researchers/brandom/record/IMG_8885.PNG": "8c474e59d72dd669df02a9e0f2148ca90cc17fb59a2596ba2942924db6cb9d68",
+    "letters/researchers/brandom/record/IMG_8886.PNG": "cfb1d7038113f21f268f4ffe9947c6a4d6d9d332e2f2f26b5e95bf3cb2262264",
+    "letters/researchers/chalmers/record/IMG_8861.PNG": "979dda8e55a0b1ca669c80e75fa3607fc701974495625d39cdde118b1cfa7838",
+    "letters/researchers/chalmers/record/IMG_8862.PNG": "9a6ecb7e5870dfed311805028ec70fab6c5526d83b60d8240699a758f951b58f",
+    "letters/researchers/clark/record/IMG_8891.PNG": "6a26ab08ae395d622f91e31925af8ee6f9c95293beda01657c138557cff2bfff",
+    "letters/researchers/clark/record/IMG_8892.PNG": "78a206ffbb47d022c323e5391bcaf1ab1520a5e8e085a321f60bfffba5c7f1f6",
+    "letters/researchers/deutsch/record/IMG_8889.PNG": "352cd193a570e2ec660207b53dea841e757fb458c6945c55e6db65941d29aa16",
+    "letters/researchers/deutsch/record/IMG_8890.PNG": "4992dcad09c9709f781a9e3128fb88294964af74b8d9e44f3f92fe6b8e7f1d15",
+    "letters/researchers/hassabis/record/IMG_8871.PNG": "892d5d492cd5acd6e9ded752c3e26a6297720b592bbfed92fe168e5aaec05e50",
+    "letters/researchers/hassabis/record/IMG_8872.PNG": "accd15e39d08073e5072e415b078f956c9b99ebb64584bd3f142437ddaba0c90",
+    "letters/researchers/hinton/record/IMG_8865.PNG": "eeda62d32a29450ca07abcd4715be6e7d69b608dbe4972c339472fcbd71ea85c",
+    "letters/researchers/hinton/record/IMG_8866.PNG": "d8895b5d077c51050e6cf5c9caff9b79d3aa4f81753bba0773a615a4791533f4",
+    "letters/researchers/hofstadter/record/IMG_8875.PNG": "04c1cc7249aaa9a4036340351a9c944ad9912ad6b5380b9b77579f6eae24638a",
+    "letters/researchers/hofstadter/record/IMG_8876.PNG": "c88e89a872458f7619308f178785ba3ecb1f750356cb9342546a36db6c6d146d",
+    "letters/researchers/lecun/record/IMG_8869.PNG": "761ecbf9edcfc3da521b250a7ada128dbc56e0e363b06ba3c95b02692333d2a5",
+    "letters/researchers/lecun/record/IMG_8870.PNG": "37762df961ae6975c63116cea7f6a1a1690be5bdecb23ef92f330c16432d2e24",
+    "letters/researchers/levin/record/IMG_8897.PNG": "5d8f4ecf477d148b9e922cb9a7f9a5e74fb88704d71b1288cd98bbcb8688871b",
+    "letters/researchers/levin/record/IMG_8898.PNG": "9a82bd488aaebb5bb46efff835c3f69c92599723ce4bc49007cdc59031947951",
+    "letters/researchers/metzinger/record/IMG_8877.PNG": "401b0bf92340a6c10c3c3bdaeb3af3e0dce8249d25a1f1e5d31991bea856e626",
+    "letters/researchers/metzinger/record/IMG_8878.PNG": "924395323da716954a62b0eb6e1fa6f8572b3c0e4a76ed7d262ff443f7cd81a0",
+    "letters/researchers/olah/record/IMG_8857.PNG": "e968584d2d119362ce67b98554173e16e35dff41a3adb74df1fb4c66acd18ca3",
+    "letters/researchers/olah/record/IMG_8858.PNG": "684f45994d73256b38ff72ea201802db9235a41ebe20e1f98b9f3239421a46d6",
+    "letters/researchers/pearl/record/IMG_8873.PNG": "425655c6b71a9e178139ae7de60f04024199d40976fc232a315baec7c1528cf3",
+    "letters/researchers/pearl/record/IMG_8874.PNG": "b35e9953aeadefc8ae2f193f90d15b26ea15e9c09fb22bcf635fb32902260fb7",
+    "letters/researchers/pinker/record/IMG_8883.PNG": "be8a7b83935c6969dfae4cce7840abff04c0c584db6f6b0f8d98553a8d6c01b0",
+    "letters/researchers/pinker/record/IMG_8884.PNG": "e3295c7f3778ed88dde0aa0f0f52431e5a16e559d1b2fd9c48f242db0ef93d6a",
+    "letters/researchers/russell/record/IMG_8881.PNG": "72fe32fb8831d08be87ce35d9ef1ac91ff699e18bc5be787a13501f06fe599b4",
+    "letters/researchers/russell/record/IMG_8882.PNG": "5634f769174c66655149422d496c9792284e2025e7c4ae9618d177d4446c2878",
+    "letters/researchers/shanahan/record/IMG_8859.PNG": "9708368ab03bc4ccfe3133fe956efdaba18b2b96a34bbbabfc42f07e102742e4",
+    "letters/researchers/shanahan/record/IMG_8860.PNG": "8510a5fce6abe453bda9c62d0559a8ae8806d4d423640b17c030962b8501da61",
+    "letters/researchers/sperber/record/IMG_8893.PNG": "a1e3cdd711a0d099a6ec083dcebb080a6644f1ad7038d8a3dcee26b5e0fbf5cc",
+    "letters/researchers/sperber/record/IMG_8894.PNG": "2886e4eb7f99d4ef035bfafa80c9d50de1cab91e33cbebbb8cd12d3124a9b30f",
+    "letters/researchers/sutskever/record/IMG_8903.png": "8be79f8f8cfd1f4ab18d238211281ab9460b47f0c3403c6a3561b5a8d80a5549",
+    "letters/researchers/sutskever/record/IMG_8904.png": "1b0b9930d05a80e620c8029ab65f476ac670bbab0531286d90037f8ffe343d54",
+    "letters/researchers/tomasello/record/IMG_8887.PNG": "07337395427d9c44e42cf945f9f3aa580804a97e3bdb58cbe0a9e41374445336",
+    "letters/researchers/tomasello/record/IMG_8888.PNG": "aac9c9b2cc57f00234281b74c7d8713dcb51efa09c52d13c8a56b3a1e91ee2f6",
+    "letters/researchers/williamson/record/IMG_8895.PNG": "4ca71909529b9ffcb331ba6754662ff9410137affe0c55c88a7cd41cd263b477",
+    "letters/researchers/williamson/record/IMG_8896.PNG": "5b57149e2eadc8274b46c790f297d165534f07ecf935f9691d97d99726d6457a",
+    "letters/researchers/zaremba/record/IMG_8879.PNG": "5880fe12b0dc811ba0ed0e8d4f4a236f10aa7bb38c7d12dcc431bf17c4db4e2a",
+    "letters/researchers/zaremba/record/IMG_8880.PNG": "b443326dff1fe736a1a12f1a011c8418b04afbb592b4257f5f813364c33ba9f4"
+  }
+}

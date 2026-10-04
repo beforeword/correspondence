@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "id": "pearl",
+  "series": "researchers",
+  "recipient": "Judea Pearl",
+  "recipient_ru": "Джуда Перл",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "evidence",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "judea@cs.ucla.edu"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": true,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "В заголовке виден адрес judea@cs.ucla.edu и обозначение ещё одного получателя; его адрес на скриншоте не раскрыт.",
+      "en": "The header shows judea@cs.ucla.edu and indicates one additional recipient whose address is not displayed."
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "Causal models: the grounds for interpreting evidence",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Professor Pearl,",
+        "In Section 3.1 of “Causal inference in statistics: An overview”, you write: “In interpreting this equation one should think of a physical process”.",
+        "Your discussion explicitly distinguishes the algebraic equation from its causal interpretation.",
+        "Please indicate whether your framework represents the grounds for reading an experimental report as support for a causal assumption, or treats that justification as separate from the causal model.",
+        "beforeword proposes keeping three elements separately inspectable: the written record, its selected interpretation, and the grounds offered for accepting that interpretation. This examination includes the records offered as supporting evidence.",
+        "The phrase “physical process” also remains part of the writing under examination. Written accounts of experiments, expert judgments, and any proposed criterion receive the same treatment. This letter is included.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "c713663407266037068b1d51e7e524622e7e3ea900004d7f671f9ca4338ae29f",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Причинные модели: основания для интерпретации свидетельств",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый профессор Перл,",
+        "В разделе 3.1 статьи «Causal inference in statistics: An overview» Вы пишете: «Интерпретируя это уравнение, следует думать о физическом процессе».",
+        "В Вашем изложении явно различаются алгебраическое уравнение и его причинная интерпретация.",
+        "Пожалуйста, уточните, отражает ли Ваш подход основания, по которым отчёт об эксперименте читают как довод в пользу причинного предположения, или рассматривает это обоснование отдельно от причинной модели.",
+        "beforeword предлагает сохранять возможность по отдельности рассматривать три элемента: письменную запись, выбранную её интерпретацию и доводы в пользу принятия этой интерпретации. Это относится и к записям, предлагаемым в качестве подтверждающих свидетельств.",
+        "Выражение «физический процесс» тоже остаётся частью разбираемого текста. Письменные описания экспериментов, экспертные суждения и любой предлагаемый критерий подлежат тому же рассмотрению. Это письмо также включено в разбор.",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "e19512c684497822d31309df9cd8dc59f2f75464dbb421865c2d10957c00c59f",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What supports reading an experimental report as evidence for a causal assumption?",
+      "ru": "Что обосновывает использование отчёта об эксперименте в поддержку причинного предположения?"
+    },
+    "purpose": {
+      "en": [
+        "The letter starts from the distinction drawn in the discussed work between an algebraic equation and its causal interpretation, then turns to the reading of experimental reports.",
+        "When a report is offered in support of a causal assumption, readers need to see how its wording connects to the proposed conclusion.",
+        "The letter asks whether the causal framework represents the reasons for accepting that reading or leaves its justification outside the model. It proposes applying the same examination to records offered as supporting evidence."
+      ],
+      "ru": [
+        "Письмо отталкивается от различия между алгебраическим уравнением и его причинной интерпретацией, отмеченного в обсуждаемой работе, и переносит вопрос на чтение отчётов об экспериментах.",
+        "Когда такой отчёт приводят в пользу предположения о причине, читателю важно видеть, как его текст связан с предлагаемым выводом.",
+        "Письмо спрашивает, отражены ли доводы в пользу такого прочтения в самой причинной модели или их обоснование остаётся за её пределами. Тот же разбор предложен для записей, представляемых как подтверждающие свидетельства."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "Causal inference in statistics: An overview",
+      "url": "https://escholarship.org/content/qt36w8n7pg/qt36w8n7pg.pdf#page=9",
+      "locator_ru": "Statistics Surveys 3 (2009). §3.1 Introduction to structural equation models, с. 103–104; страницы 9–10 PDF.",
+      "locator_en": "Statistics Surveys 3 (2009). §3.1 Introduction to structural equation models, pp. 103–104; PDF pages 9–10.",
+      "note_ru": "Копия статьи в репозитории Калифорнийского университета. Цитируемое предложение продолжается через границу страниц.",
+      "note_en": "The University of California repository copy. The cited sentence continues across the page break.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8873.PNG",
+      "sha256": "425655c6b71a9e178139ae7de60f04024199d40976fc232a315baec7c1528cf3"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8874.PNG",
+      "sha256": "b35e9953aeadefc8ae2f193f90d15b26ea15e9c09fb22bcf635fb32902260fb7"
+    }
+  ]
+}

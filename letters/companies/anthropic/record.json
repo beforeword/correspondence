@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "id": "anthropic",
+  "series": "companies",
+  "recipient": "Anthropic",
+  "author": "Kirill Shebetov · beforeword",
+  "edition": "1.0",
+  "original_language": "en",
+  "record_as_of": "2026-10-04",
+  "sending": {
+    "date": "2026-10-04",
+    "record_basis": "author_statement",
+    "channel": "email",
+    "to": [
+      {
+        "email": "transparency@anthropic.com"
+      }
+    ],
+    "cc": [
+      {
+        "email": "jonk@anthropic.com",
+        "name": "Jonathan Kutasov"
+      }
+    ],
+    "read_by_recipient": "not_established_by_supplied_record"
+  },
+  "status": {
+    "acknowledgment_published": false,
+    "substantive_response_published": false
+  },
+  "pages": {
+    "en": "README.md",
+    "ru": "README.ru.md"
+  },
+  "editions": [
+    {
+      "path": "files/beforeword-anthropic-en-2026-10-04-v1.0.txt",
+      "language": "en",
+      "role": "sent_edition",
+      "is_recorded_as_sent": true,
+      "sha256": "91811fafda0c150917a5e744f5d65b912fcaed44798813c4f03f99a608fb461f"
+    },
+    {
+      "path": "files/beforeword-anthropic-ru-2026-10-04-v1.0.txt",
+      "language": "ru",
+      "role": "translation",
+      "is_recorded_as_sent": false,
+      "sha256": "3ecf0e40d5dda56544d4cd10a06db70ce9c6d90840d8ed0538e58a5820f8aec4"
+    }
+  ],
+  "editorial_context": {
+    "role": "archive_commentary_not_sent_letter",
+    "purpose": {
+      "en": "The letter asks Anthropic to distinguish instructions for how Claude should behave from claims about what Claude understands, values, or is. When such a claim is used to support a decision, readers should be able to see the material and criteria offered for it, and the rule connecting it to an action. The proposed amendments would make these steps open to examination and allow objections without requiring someone to accept the written description as who they are. This also applies when the description concerns a user.",
+      "ru": "Письмо предлагает Anthropic различать инструкции о том, как Claude должен отвечать, и утверждения о том, что он понимает, какими ценностями обладает или кем является. Когда таким утверждением обосновывают решение, читатель должен видеть, какие материалы и критерии приведены в его обоснование и по какому правилу его связывают с действием. Предлагаемые правки должны сделать эти шаги доступными для разбора и сохранить возможность возразить без требования признать написанное описание собой. Это относится и к описаниям пользователя."
+    },
+    "public_statements": [
+      {
+        "title": "Anthropic · Claude’s new constitution",
+        "url": "https://www.anthropic.com/news/claude-new-constitution",
+        "date_ru": "22 января 2026 года · обращение 4 октября 2026 года",
+        "date_en": "22 January 2026 · accessed 4 October 2026",
+        "quote": "both expresses and shapes who Claude is",
+        "translation_ru": "«одновременно выражает и формирует то, кем является Claude»",
+        "context_ru": "В публикации конституция описана как документ о желаемых ценностях и поведении, используемый при обучении. Там же отмечено, что ответы Claude могут не соответствовать этим целям. В самой конституции сохраняются оговорки о неопределённости относительно сознания и морального статуса Claude.",
+        "context_en": "The announcement describes the constitution as a document about desired values and behavior, used in training. It also notes that Claude’s outputs may fall short of those aims. The constitution itself retains qualifications about uncertainty concerning Claude’s consciousness and moral status.",
+        "connection_ru": "Вопрос beforeword: как различить слова документа, заявленное использование при обучении и утверждение о том, «кем является Claude»? В письме предложены правки, раскрывающие основания приписывания и применения описаний. Это вопрос к приведённой формулировке, а не утверждение о том, что Anthropic объявила наличие сознания у Claude.",
+        "connection_en": "The beforeword question is how to distinguish the document’s wording, its stated use in training, and the claim about who Claude is. The letter proposes amendments that make the grounds for attributions and their use explicit. This examines the quoted wording; it does not claim that Anthropic has declared Claude conscious."
+      }
+    ]
+  },
+  "events": [
+    {
+      "type": "prepared",
+      "date": "2026-10-04",
+      "title_ru": "Подготовлена редакция 1.0",
+      "title_en": "Edition 1.0 prepared",
+      "body_ru": "Подготовлены полный текст письма, два предлагаемых дополнения и материалы для сравнительного испытания.",
+      "body_en": "The full letter, two proposed additions, and material for a comparative evaluation were prepared."
+    },
+    {
+      "type": "sent",
+      "date": "2026-10-04",
+      "record_basis": "author_statement",
+      "title_ru": "Отправлено · 04.10.2026",
+      "title_en": "Sent · 4 October 2026",
+      "body_ru": "Дата и адреса отправки указаны автором. Английская редакция 1.0 сохранена по ссылке ниже. Подтверждение получения и ответ компании пока не опубликованы. Доступное подтверждение отправки будет добавлено в эту историю.",
+      "body_en": "The sending date and recipient addresses are reported by the author. English edition 1.0 is preserved at the link below. No acknowledgement of receipt or company response has been published yet. Any available confirmation of sending will be added to this record.",
+      "sent_text": "files/beforeword-anthropic-en-2026-10-04-v1.0.txt",
+      "sent_sha256": "91811fafda0c150917a5e744f5d65b912fcaed44798813c4f03f99a608fb461f",
+      "channel_ru": "Электронная почта",
+      "channel_en": "Email",
+      "to": [
+        {
+          "email": "transparency@anthropic.com"
+        }
+      ],
+      "cc": [
+        {
+          "email": "jonk@anthropic.com",
+          "name": "Jonathan Kutasov"
+        }
+      ],
+      "recipient_note_ru": "Письмо адресовано Anthropic. Основной адрес опубликован в Transparency Hub для обратной связи по ответственному развитию ИИ. Копия направлена исследователю Jonathan Kutasov, чей адрес указан для переписки по исследованию Teaching Claude Why об обучении Claude на конституции и оценке поведения модели.",
+      "recipient_note_en": "The letter is addressed to Anthropic. The main address is published in its Transparency Hub for feedback on responsible AI development. A copy was sent to Jonathan Kutasov, the correspondence contact for Teaching Claude Why, a study of constitutional training and model behavior evaluation.",
+      "address_sources": [
+        {
+          "url": "https://www.anthropic.com/transparency/voluntary-commitments",
+          "label_ru": "Anthropic · Transparency Hub · обновлено 23.07.2026",
+          "label_en": "Anthropic · Transparency Hub · updated 23 July 2026"
+        },
+        {
+          "url": "https://alignment.anthropic.com/2026/teaching-claude-why/",
+          "label_ru": "Anthropic · Teaching Claude Why · 08.05.2026",
+          "label_en": "Anthropic · Teaching Claude Why · 8 May 2026"
+        }
+      ]
+    }
+  ],
+  "source_event_record": "../../../data/company-events.json"
+}

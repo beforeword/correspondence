@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "id": "levin",
+  "series": "researchers",
+  "recipient": "Michael Levin",
+  "recipient_ru": "Майкл Левин",
+  "author": {
+    "name": "Kirill Shebetov",
+    "project": "beforeword"
+  },
+  "original_language": "en",
+  "topic": "evidence",
+  "status": {
+    "sending": "recorded_in_author_supplied_sent_folder_screenshots",
+    "delivery": "not_established_in_published_materials",
+    "read_by_recipient": "not_established_in_published_materials",
+    "reply": "no_reply_published"
+  },
+  "sending": {
+    "date": null,
+    "time_display": null,
+    "timezone": null,
+    "calendar_date_shown": false,
+    "visible_weekday_label": "пятница",
+    "to": [
+      "michael.levin@tufts.edu"
+    ],
+    "full_address_visible": true,
+    "additional_recipient_address_not_shown": false,
+    "forwarding_requested": false,
+    "forwarding": "not_applicable",
+    "record_basis": "author_supplied_screenshots",
+    "notes": {
+      "ru": "",
+      "en": ""
+    }
+  },
+  "editions": [
+    {
+      "language": "en",
+      "role": "transcription",
+      "subject": "Pattern memory: the grounds for reading Figure 4F",
+      "file": "README.md",
+      "text_file": "letter.en.txt",
+      "body_paragraphs": [
+        "Dear Professor Levin,",
+        "In Part Two of “Mind Everywhere” (2026), with David B. Resnik, the section on mental representation includes “a planarian tissue that stores a bioelectrical pattern memory”.",
+        "The proposed reading retains your emphasis on experimental utility and your qualification that mental representation need not involve subjective experience.",
+        "For the reset reported in Figure 4F of Durant et al. (2017), please indicate one supporting claim and explain how it supports interpreting the bioelectrical state as a stored representation of the anatomy to be rebuilt.",
+        "beforeword proposes keeping the written report, the proposed memory attribution, and the grounds offered for that attribution separately inspectable.",
+        "A written explanation adds another formulation. Its interpretation and its role as support also enter the examination; calling it a “criterion” or “explanation” leaves that role to be shown.",
+        "The same examination includes written descriptions of measurements and controls, human self-descriptions, the wording of beforeword’s own procedure, and this letter—including its terms “memory”, “representation”, “writing” and “reading”.",
+        "The reading procedure and worked examples:\nhttps://beforeword.xyz/model/en/",
+        "Kirill Shebetov\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "a0607f8e0c0a6b156c3bfcfda768fd877e0119de2a652fbc76c563f4ae416262",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": true
+    },
+    {
+      "language": "ru",
+      "role": "translation",
+      "subject": "Память формы: основания для прочтения рисунка 4F",
+      "file": "README.ru.md",
+      "text_file": "letter.ru.txt",
+      "body_paragraphs": [
+        "Уважаемый профессор Левин,",
+        "Во второй части «Mind Everywhere» (2026), написанной совместно с Дэвидом Б. Резником, в разделе о ментальной репрезентации упоминается «ткань планарии, хранящая биоэлектрическую память формы».",
+        "Предлагаемое прочтение сохраняет Ваш акцент на экспериментальной полезности и оговорку о том, что ментальная репрезентация не обязательно предполагает субъективный опыт.",
+        "Для случая сброса, описанного на рисунке 4F в работе Durant и соавторов (2017), пожалуйста, укажите одно утверждение в поддержку предлагаемого прочтения. Поясните, как оно позволяет рассматривать биоэлектрическое состояние как сохранённое представление о строении тела, которое предстоит восстановить.",
+        "beforeword предлагает сохранять возможность отдельно рассматривать письменный отчёт, предлагаемое приписывание памяти и доводы в пользу этого приписывания.",
+        "Письменное объяснение добавляет ещё одну формулировку. Её интерпретация и роль в обосновании тоже подлежат разбору; даже если назвать её «критерием» или «объяснением», эту роль всё ещё нужно показать.",
+        "Тот же разбор относится к письменным описаниям измерений и контрольных условий, описаниям людьми самих себя, формулировке собственной процедуры beforeword и этому письму, включая его термины «память», «репрезентация», «написанное» и «чтение».",
+        "Процедура чтения и разобранные примеры:\nhttps://beforeword.xyz/model/en/",
+        "Кирилл Шебетов\nbeforeword",
+        "+"
+      ],
+      "body_sha256_utf8": "4165dbaea8664789438580f7ef8528ebdb6b5bedb45b768c1379b831ef34a387",
+      "body_serialization": "UTF-8; paragraphs joined with two LF characters; one final LF.",
+      "is_sent_wording": false
+    }
+  ],
+  "editorial_context": {
+    "separate_from_sent_letter": true,
+    "question": {
+      "en": "What supports describing tissue’s bioelectrical state as memory of the body’s shape?",
+      "ru": "На каком основании описанному состоянию ткани приписывают память о форме тела?"
+    },
+    "purpose": {
+      "en": [
+        "The starting point is a description, quoted in the letter, of planarian tissue storing a bioelectrical pattern memory. The letter asks how a specified experimental result supports interpreting the tissue’s state as a stored representation of the anatomy to be rebuilt.",
+        "Readers of scientific writing need to distinguish what is reported about an experiment, the interpretation proposed, and the account connecting them.",
+        "Using Figure 4F in the cited study, the letter asks for one claim supporting that reading and an explanation of its role. That examination also covers the explanation itself and descriptions of measurements and controls."
+      ],
+      "ru": [
+        "Поводом стало цитируемое в письме описание ткани планарии как хранящей биоэлектрическую память формы. Письмо спрашивает, как указанный экспериментальный результат позволяет рассматривать состояние ткани как сохранённое представление о форме тела, которую предстоит восстановить.",
+        "Читателю научного текста важно видеть, что сообщается об эксперименте, какое толкование предлагается и чем обоснована связь между ними.",
+        "Письмо просит на примере рисунка 4F из указанной работы назвать одно утверждение в поддержку такого прочтения и пояснить его роль. Тот же разбор относится к самому объяснению и к описаниям измерений и контрольных условий."
+      ]
+    }
+  },
+  "discussed_publications": [
+    {
+      "title": "Michael Levin & David B. Resnik — Mind Everywhere, Part Two (2026)",
+      "url": "https://link.springer.com/article/10.1007/s13752-025-00524-5",
+      "locator_ru": "Пункт Mental representation в перечне признаков; пример биоэлектрической памяти ткани планарии.",
+      "locator_en": "Mental representation item in the list of characteristics; the planarian bioelectrical pattern-memory example.",
+      "note_ru": "Версия издателя от 25 февраля 2026 года, Biological Theory 21, с. 263–277; именно Part Two.",
+      "note_en": "Version of record published 25 February 2026, Biological Theory 21, pp. 263–277; specifically Part Two.",
+      "match": "exact"
+    },
+    {
+      "title": "Durant et al. — Long-Term, Stochastic Editing of Regenerative Anatomy via Targeting Endogenous Bioelectric Gradients (2017)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5443973/",
+      "locator_ru": "Figure 4, панель F и подпись к рисунку; раздел о биоэлектрической физиологии планарий.",
+      "locator_en": "Figure 4, panel F and caption; section on planarian bioelectric physiology.",
+      "note_ru": "Экспериментальная статья, отдельно названная в письме: Biophysical Journal 112(10), с. 2231–2243.",
+      "note_en": "The experimental paper separately cited in the letter: Biophysical Journal 112(10), pp. 2231–2243.",
+      "match": "exact"
+    }
+  ],
+  "evidence": [
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8897.PNG",
+      "sha256": "5d8f4ecf477d148b9e922cb9a7f9a5e74fb88704d71b1288cd98bbcb8688871b"
+    },
+    {
+      "type": "author_supplied_sent_folder_screenshot",
+      "file": "record/IMG_8898.PNG",
+      "sha256": "9a82bd488aaebb5bb46efff835c3f69c92599723ce4bc49007cdc59031947951"
+    }
+  ]
+}
