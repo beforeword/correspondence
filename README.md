@@ -1,20 +1,18 @@
-# beforeword · correspondence
+# Letters to researchers and AI developers
 
 **English** · [Русский](README.ru.md)
 
-**27 letters · English texts · Russian translations · sources and correspondence records**
+Long before I learned to speak about myself, other people or the world, the words were already in use. Why should anyone have to accept a learned description as the very thing it names? I put that question to people who write about language, consciousness and AI.
 
-[Company letters](#companies) · [Researcher letters](#researchers) · [Replies and status](#status) · [Using the archive](#about)
+This archive contains 27 of my letters. In 24 letters to researchers I ask what supports a specific claim in their work. In three letters to OpenAI, Anthropic and xAI I propose changes to the rules for model responses and the way developers report test results.
 
-What justifies describing someone as “unreliable”, saying that an AI “understands”, or reading a sentence as evidence of a person’s beliefs?
+Kirill Shebetov · Beforeword
 
-This archive brings together letters from Kirill Shebetov / beforeword: **24 to researchers and three to OpenAI, Anthropic and xAI**. The research letters ask specific questions about published arguments. The company letters propose changes to response rules and the reporting of model evaluations.
+**[Read the three company letters on the website](https://beforeword.xyz/letters/en/)** · [The Beforeword proposal](https://beforeword.xyz/proposal/en/)
 
-The shared proposal is to examine the written record, the interpretation added to it and the grounds for applying that interpretation separately. Learning a word does not by itself justify applying it to a particular person or acting on it. People should be able to question a description or a decision based on it without first accepting the description as who they are. An explanation can supply grounds; it does not turn the description into what it describes.
+[All 24 researcher letters](#researchers) · [Company letters](#companies) · [Replies](#status) · [Using the archive](#about)
 
-Each entry separates the sent text, its translation, an explanation of why it was written, and the correspondence record.
-
-## Where to start
+## Three letters to start with
 
 - **[How does a description become a basis for a decision?](letters/companies/openai/README.md)** A proposal to OpenAI: show the grounds for the description and the action, while preserving the ability to challenge both.
 
@@ -116,7 +114,7 @@ Statuses describe the available records. Sending, delivery, reading and a substa
 
 - **Use the data.** The [JSON catalog](catalog.json) lists all 27 records with links to texts and detailed data. [Archive maintenance](tools/README.md) explains how the pages are built and checked.
 
-[beforeword reading procedure](https://beforeword.xyz/model/en/) · [Website](https://beforeword.xyz/) · [Download ZIP](https://github.com/beforeword/correspondence/archive/refs/heads/main.zip)
+[beforeword reading procedure](https://beforeword.xyz/model/en/) · [Beforeword in English](https://beforeword.xyz/en/) · [Download ZIP](https://github.com/beforeword/correspondence/archive/refs/heads/main.zip)
 
 Author: **Kirill Shebetov / beforeword** · [mail@beforeword.xyz](mailto:mail@beforeword.xyz)
 
