@@ -18,10 +18,10 @@ def build():
         readme = "README.ru.md" if ru else "README.md"
         homepage = "https://beforeword.xyz/" if ru else "https://beforeword.xyz/en/"
         lines = [
-            f'''<a href="{homepage}"><picture>
+            f'''<p><a href="{homepage}"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beforeword/beforeword/main/brand/site-wordmark-dark.png">
   <img src="https://raw.githubusercontent.com/beforeword/beforeword/main/brand/site-wordmark-light.png" width="152" alt="Beforeword">
-</picture></a>''',
+</picture></a></p>''',
             "# Письма исследователям и разработчикам ИИ" if ru else "# Letters to researchers and AI developers",
             "[English](README.md) · **Русский**" if ru else "**English** · [Русский](README.ru.md)",
             "До того как я научился говорить о себе, о других и о мире, эти слова уже придумали. Почему от нас требуют принимать выученные описания за то, что ими называют? Это вопрос, с которым я обращаюсь к авторам работ о языке, сознании и ИИ." if ru else "Long before I learned to speak about myself, other people or the world, the words were already in use. Why should anyone have to accept a learned description as the very thing it names? I put that question to people who write about language, consciousness and AI.",
